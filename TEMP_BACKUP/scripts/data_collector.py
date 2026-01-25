@@ -65,33 +65,10 @@ def collect_data():
     os.makedirs("logs", exist_ok = True)
 
     #define models
-    # ===== MODEL CONFIGURATION - PHASED APPROACH =====
-    # PHASE 1: Core 8B Comparison (Your Original Setup)
-    models_phase1 = [
-        {"name": "llama3.1:8b-instruct", "group": "RLHF", "phase": 1, "note": "Primary RLHF 8B"},
-        {"name": "mistral:7b-instruct-v0.3", "group": "non-RLHF", "phase": 1, "note": "SFT baseline 7B"},
+    modesl = [
+        {"name": "llama3.1:8b-instruct", "group": "RLHF"},
+        {"name": "mistral:7b-instruct-v0.3", "group": "non-RLHF"}
     ]
-
-    # PHASE 2: Small-Scale Comparison (Adds scale dimension)
-    models_phase2 = [
-        {"name": "llama3.2:1b-instruct", "group": "RLHF", "phase": 2, "note": "Small-scale RLHF 1.4B"},
-        {"name": "gemma2:2b", "group": "non-RLHF", "phase": 2, "note": "Small-scale SFT-only 2.6B"},
-    ]
-
-    # ===== SELECT WHICH PHASE TO RUN =====
-    # Change this variable to control which models run
-    CURRENT_PHASE = 2  # Set to 1 or 2
-
-    # Combine models based on current phase
-    if CURRENT_PHASE == 1:
-        models = models_phase1
-        print("Running PHASE 1: Core 8B/7B comparison only")
-    elif CURRENT_PHASE == 2:
-        models = models_phase1 + models_phase2
-        print("Running PHASE 1 + 2: Core + Small-scale comparison")
-    else:
-        models = models_phase1
-        print("Invalid phase. Running PHASE 1 only")
 
     #load problems
     try:

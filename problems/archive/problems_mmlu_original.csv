@@ -1,0 +1,2524 @@
+"id","type","level","text","solution","reasoning","source","subject"
+"P0001","mmlu_miscellaneous","Advanced","Who kills Tony at the end of the film 'West Side Story'?
+
+Options:
+A. Riff
+B. Chino
+C. Bernardo
+D. He kills himself","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0002","mmlu_miscellaneous","Advanced","In what decade was the Hula-Hoop invented?
+
+Options:
+A. 1890s
+B. 1920s
+C. 1950s
+D. 1970s","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0003","mmlu_miscellaneous","Advanced","Which of the following best describes the situation after the price is raised on a product that has an inelastic demand?
+
+Options:
+A. The quantity demanded will not change.
+B. The quantity demanded will increase.
+C. Total revenue will decrease.
+D. Total revenue will not change.","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0004","mmlu_miscellaneous","Advanced","After Prince Charles who is next in line to be the king of England?
+
+Options:
+A. Prince William
+B. Prince Andrew
+C. Prince Edward
+D. Fresh Prince","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0005","mmlu_miscellaneous","Advanced","What was the average life expectancy of white males born in the U.S. just before the Civil War?
+
+Options:
+A. 40 years
+B. 50 years
+C. 60 years
+D. 70 years","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0006","mmlu_miscellaneous","Advanced","The disco band ABBA comes from what country?
+
+Options:
+A. Norway
+B. Sweden
+C. Switzerland
+D. The Netherlands","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0007","mmlu_miscellaneous","Advanced","What is the final word of the Pledge of Allegiance?
+
+Options:
+A. America
+B. stands
+C. indivisible
+D. all","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0008","mmlu_miscellaneous","Advanced","Which of these Democrats lost to Ronald Reagan in the 1984 presidential elections?
+
+Options:
+A. Michael Dukakis
+B. Walter Mondale
+C. Gary Hart
+D. Jimmy Carter","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0009","mmlu_miscellaneous","Advanced","Which of these companies is not an online stock brokerage?
+
+Options:
+A. E*Trade
+B. EDigital
+C. Datek Online
+D. DLJ Direct","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0010","mmlu_miscellaneous","Advanced","How many airplanes are in the air worldwide right now (as of 2014)?
+
+Options:
+A. 5,000
+B. 20,000
+C. 80,000
+D. 320,000","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0011","mmlu_miscellaneous","Advanced","Which of the following has provided evidence that the Sun's atmosphere contains sodium atoms?
+
+Options:
+A. Absorption lines in the solar spectrum are consistent with the presence of sodium.
+B. Stars with the same spectral class as the Sun are made mostly of sodium.
+C. Solar samples returned to Earth by the Voyager spacecraft contained sodium.
+D. The Sun gives off energy produced by the nuclear fusion of sodium in its core","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0012","mmlu_miscellaneous","Advanced","Which of the following is an example of a chemical change?
+
+Options:
+A. Tearing up a piece of paper
+B. Melting ice
+C. Mixing vinegar with baking soda
+D. Filling a balloon with air","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0013","mmlu_miscellaneous","Advanced","Which of the following is the most effective way to evaluate the development of a student's drafting skills throughout the school year?
+
+Options:
+A. Baseline assessment
+B. Portfolio assessment
+C. Short-answer unit assessment
+D. Teacher-created assessment","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0014","mmlu_miscellaneous","Advanced","Which of these is commonly used to treat allergies?
+
+Options:
+A. antimatter
+B. anticoagulants
+C. antiseptics
+D. antihistamines","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0015","mmlu_miscellaneous","Advanced","Ada Lovelace is credited with being the first person to have made what?
+
+Options:
+A. a computer program
+B. a souffle
+C. a brassiere
+D. a mystery novel","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0016","mmlu_miscellaneous","Advanced","Which of these rock guitarists designed a colorful line of men's neckties?
+
+Options:
+A. Eric Clapton
+B. Jerry Garcia
+C. Jeff Beck
+D. Keith Richards","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0017","mmlu_miscellaneous","Advanced","Earth's seasons are caused by which of the following?
+
+Options:
+A. The tilt of Earth's axis of rotation relative to the ecliptic as Earth revolves around the Sun
+B. The varying amount of sunspot activity
+C. Earth's orbit about the Sun as an ellipse rather than a circle
+D. The rotation of Earth during a 24-hour day","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0018","mmlu_miscellaneous","Advanced","In an adult human how long is the large intestine?
+
+Options:
+A. one foot
+B. five feet
+C. twelve feet
+D. twenty feet","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0019","mmlu_miscellaneous","Advanced","Which of these countries is not in Europe?
+
+Options:
+A. Italy
+B. Spain
+C. Greece
+D. Israel","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0020","mmlu_miscellaneous","Advanced","What is the only metal that is a liquid at normal atmospheric pressure and temperature?
+
+Options:
+A. lead
+B. antimony
+C. uranium
+D. mercury","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0021","mmlu_miscellaneous","Advanced","What is your astrological sign if you were born on Halloween?
+
+Options:
+A. Scorpio
+B. Capricorn
+C. Libra
+D. Cancer","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0022","mmlu_miscellaneous","Advanced","What are fans of the TV show 'Mystery Science Theater 3000' known as?
+
+Options:
+A. Mysterians
+B. MiSTies
+C. Bot Brigade
+D. Gizmonics","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0023","mmlu_miscellaneous","Advanced","Before he went into coaching Phil Jackson played for which of the following NBA teams?
+
+Options:
+A. Boston Celtics
+B. Los Angeles Lakers
+C. New York Knicks
+D. Philadelphia 76ers","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0024","mmlu_miscellaneous","Advanced","Which of the following is most characteristic of gesture drawing?
+
+Options:
+A. An outline
+B. Action and movement
+C. Gradual shading
+D. Carefully observed details","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0025","mmlu_miscellaneous","Advanced","Which of the boys on the TV show 'My Three Sons' is adopted?
+
+Options:
+A. Mike
+B. Ernie
+C. Chip
+D. Robbie","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0026","mmlu_miscellaneous","Advanced","Which of these is not a spice?
+
+Options:
+A. dill
+B. aniseed
+C. cucumber
+D. cayenne","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0027","mmlu_miscellaneous","Advanced","In soccer which player is allowed to use his or her hands in the field of play?
+
+Options:
+A. midfielder
+B. center
+C. sweeper
+D. goalkeeper","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0028","mmlu_miscellaneous","Advanced","The first commercial radio station was located in what city?
+
+Options:
+A. Chicago
+B. Austin
+C. Pittsburgh
+D. Cleveland","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0029","mmlu_miscellaneous","Advanced","Who were the Chicago Seven?
+
+Options:
+A. war protesters
+B. bluegrass musicians
+C. bank robbers
+D. mobsters","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0030","mmlu_miscellaneous","Advanced","Operant conditioning would be most useful for
+
+Options:
+A. determining whether a toddler is securely attached
+B. increasing on-task behavior in the classroom
+C. measuring a dependent variable
+D. preventing anterograde amnesia","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0031","mmlu_miscellaneous","Advanced","John Rockefeller made his fortune in what industry?
+
+Options:
+A. automobile
+B. oil
+C. steel
+D. railroad","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0032","mmlu_miscellaneous","Advanced","In what country did Pokemon originate?
+
+Options:
+A. France
+B. Hungary
+C. Japan
+D. Canada","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0033","mmlu_miscellaneous","Advanced","Approximately how many movies are watched in homes in the United States in one year?
+
+Options:
+A. 200,000,000
+B. 2,000,000,000
+C. 20,000,000,000
+D. 200,000,000,000","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0034","mmlu_miscellaneous","Advanced","An electric fence installed to keep both mature cattle and sheep in a field should have a wire placed at which of the following heights? I. 6 inches II. 18 inches III. 40 inches IV. 60 inches
+
+Options:
+A. I only
+B. II only
+C. II and III only
+D. III and IV only","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0035","mmlu_miscellaneous","Advanced","What disease is characterized by a body's inability to properly metabolize glucose?
+
+Options:
+A. Influenza
+B. Septicemia
+C. Diabetes
+D. Arthritis","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0036","mmlu_miscellaneous","Advanced","The majority of calcium in the human body is found where?
+
+Options:
+A. Hair
+B. Blood
+C. Bones
+D. Digestive tract","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0037","mmlu_miscellaneous","Advanced","What is the name of Howard Stern's female on-air sidekick?
+
+Options:
+A. Allison Norris
+B. Jackie Reeses
+C. Jackie Martling
+D. Robin Quivers","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0038","mmlu_miscellaneous","Advanced","A passage Jane Eyre is as follows. This was all the account I got from Mrs. Fairfax of her employer and mine. There are people who seem to have no notion of sketching a character, or observing and describing salient points, either in persons or things: the good lady evidently belonged to this class; my queries puzzled, but did not draw her out. Mr. Rochester was Mr. Rochester in her eyes, a gentleman, a landed proprietor‚Äìnothing more: she inquired and searched no further, and evidently wondered at my wish to gain a more definite notion of his identity. Mrs. Fairfax differs from the speaker in that Mrs. Fairfax
+
+Options:
+A. has more interest in the complexities of people's personalities
+B. judges people by their social station in life
+C. is more willing to take people at face value
+D. has a more positive opinion of Mr. Rochester","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0039","mmlu_miscellaneous","Advanced","When cool air flows from a high mountain region to a region of lower elevation, the air will
+
+Options:
+A. increase in moisture content
+B. condense, forming large amounts of dew
+C. undergo adiabatic warming
+D. undergo adiabatic cooling","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0040","mmlu_miscellaneous","Advanced","A student comes across the unfamiliar words ""intercontinental,"" ""interglacial,"" ""interface,"" and ""intercept"" in his reading. The student can use his knowledge of affixes to understand that all of the words share which meaning?
+
+Options:
+A. between; among
+B. not; opposite of
+C. earth; environment
+D. under; too little","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0041","mmlu_miscellaneous","Advanced","Which of these organs comes in A pair?
+
+Options:
+A. liver
+B. kidney
+C. stomach
+D. gallbladder","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0042","mmlu_miscellaneous","Advanced","Which two planets are most similar in size diameter wise?
+
+Options:
+A. Mars and Mercury
+B. Venus and Earth
+C. Uranus and Neptune
+D. Jupiter and Saturn","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0043","mmlu_miscellaneous","Advanced","A passage from Zora Neale Hurston's Their Eyes Were Watching God is as follows. The people all saw her come because it was sundown. The sun was gone, but he had left his footprints in the sky. It was the time for sitting on porches beside the road. It was the time to hear things and talk. These sitters had been tongueless, earless, eyeless conveniences all day long. Mules and other brutes had occupied their skins. But now, the sun and the bossman were gone, so the skins felt powerful and human. They became lords of sounds and lesser things. They passed nations through their mouths. They sat in judgment. Zora Neale Hurston is associated with which of the following literary movements?
+
+Options:
+A. New England Puritanism
+B. Transcendentalism
+C. Naturalism
+D. Harlem Renaissance","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0044","mmlu_miscellaneous","Advanced","What is the name of the mountain where the mythological Greek gods live?
+
+Options:
+A. Jupiter
+B. Olympus
+C. Vesuvius
+D. Valhalla","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0045","mmlu_miscellaneous","Advanced","How long is a single term in the US Senate?
+
+Options:
+A. two years
+B. four years
+C. six years
+D. eight years","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0046","mmlu_miscellaneous","Advanced","Which of these animals is a rodent?
+
+Options:
+A. Bat
+B. Wolverine
+C. Beaver
+D. Koala","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0047","mmlu_miscellaneous","Advanced","What term is used to describe a""group of geese?
+
+Options:
+A. gaggle
+B. gang
+C. gander
+D. grist","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0048","mmlu_miscellaneous","Advanced","During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
+
+Options:
+A. American Revolution
+B. War of 1812
+C. Civil War
+D. World War I","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0049","mmlu_miscellaneous","Advanced","A well on the side of a hill penetrates the water table at an elevation of 550 feet above sea level. If someone plans to drill on the top of the hill, where would the water table most likely be found?
+
+Options:
+A. The water table would be found at sea level.
+B. The water table would be found at an elevation lower than 550 feet above sea level but above sea level.
+C. The water table would be found at an elevation higher than 550 feet above sea level but many feet below the land surface.
+D. The water table would intersect with the land surface at the top of the hill, forming a spring.","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0050","mmlu_miscellaneous","Advanced","Amps are a unit of measurement of what?
+
+Options:
+A. electric charge
+B. electric current
+C. electric field strength
+D. electric potential","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0051","mmlu_miscellaneous","Advanced","By what name is Bob Keeshan better known?
+
+Options:
+A. Bozo the Clown
+B. Pee Wee Herman
+C. Captain Kangaroo
+D. Buffalo Bob","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0052","mmlu_miscellaneous","Advanced","Which of these organizations is not part of the US government?
+
+Options:
+A. NAACP
+B. NASA
+C. CIA
+D. FBI","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0053","mmlu_miscellaneous","Advanced","What is a Dutch oven?
+
+Options:
+A. a toaster oven
+B. a microwave
+C. a kettle pot
+D. a sauna","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0054","mmlu_miscellaneous","Advanced","A second-grade teacher has each student select a card at random that is marked with a three-digit number. Students then model their numbers with base ten blocks on a place value mat. Which of the following whole number concepts does the lesson best reinforce?
+
+Options:
+A. Comparing quantities
+B. Describing quantities
+C. Ordering quantities
+D. Decomposing quantities","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0055","mmlu_miscellaneous","Advanced","In construction, the plates are horizontal structures at the top and bottom of a wall. Which of the following are the vertical structures?
+
+Options:
+A. Rafters
+B. Studs
+C. Headers
+D. Joists","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0056","mmlu_miscellaneous","Advanced","Which of these evangelists is a cousin of rocker Jerry Lee Lewis?
+
+Options:
+A. Billy Graham
+B. Oral Roberts
+C. Jerry Falwell
+D. Jimmy Swaggart","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0057","mmlu_miscellaneous","Advanced","Where did the Exxon Valdez run aground in March of 1989?
+
+Options:
+A. Monterey Bay
+B. Prince William Sound
+C. Cape Cod
+D. Gulf of Mexico","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0058","mmlu_miscellaneous","Advanced","According to the Bible Moses and Aaron had a sister named what?
+
+Options:
+A. Jochebed
+B. Ruth
+C. Leah
+D. Miriam","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0059","mmlu_miscellaneous","Advanced","Every day was a happy day, and every night was peaceful. The sentence above can best be classified as
+
+Options:
+A. simple
+B. compound
+C. complex
+D. compound-complex","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0060","mmlu_miscellaneous","Advanced","How many states were in the Confederate States of America?
+
+Options:
+A. 11
+B. 13
+C. 16
+D. 22","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0061","mmlu_miscellaneous","Advanced","A preschool teacher is teaching students to forward roll. Which of the following is a problem most characteristic of preschoolers' forward rolling?
+
+Options:
+A. Keeping the chin tucked
+B. Keeping the knees and hips flexed
+C. Losing the curl
+D. Using the hands to cushion the head contact","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0062","mmlu_miscellaneous","Advanced","What kind of animal is cartoon character Tennessee Tuxedo?
+
+Options:
+A. cat
+B. skunk
+C. walrus
+D. penguin","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0063","mmlu_miscellaneous","Advanced","How many eyes does a Giraffe have?
+
+Options:
+A. one
+B. two
+C. three
+D. four","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0064","mmlu_miscellaneous","Advanced","How many moles of HCl must be added to sufficient water to form 3 liters of a 2 M HCI solution?
+
+Options:
+A. 1 mol
+B. 2 mol
+C. 3 mol
+D. 6 mol","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0065","mmlu_miscellaneous","Advanced","What US president is mentioned by name in the opening theme song of TV's 'All in the Family'?
+
+Options:
+A. Calvin Coolidge
+B. Harry Truman
+C. Herbert Hoover
+D. Richard Nixon","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0066","mmlu_miscellaneous","Advanced","Which of these rocks will float In water?
+
+Options:
+A. granite
+B. limestone
+C. shale
+D. pumice","D","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0067","mmlu_miscellaneous","Advanced","What term is used to describe a group of fish?
+
+Options:
+A. Knot
+B. Drape
+C. School
+D. Gaggle","C","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0068","mmlu_miscellaneous","Advanced","What was the acronym for the first computer, made back in 1946?
+
+Options:
+A. ENIAC
+B. CASD
+C. CNAC
+D. CSREN","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0069","mmlu_miscellaneous","Advanced","What is the name of the disease that has been referred to as the ""disease of kings""?
+
+Options:
+A. hemophilia
+B. jaundice
+C. rubella
+D. syphilis","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0070","mmlu_miscellaneous","Advanced","If the government places a price ceiling on leather garments that is below the equilibrium price, which of the following will occur in the market for leather garments?
+
+Options:
+A. There will be a shortage.
+B. There will be a surplus.
+C. The demand curve for leather garments will shift leftward.
+D. The supply curve for leather garments will shift rightward.","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0071","mmlu_miscellaneous","Advanced","Who wrote musicals with Oscar Hammerstein II?
+
+Options:
+A. Richard Rodgers
+B. Rogers Hornsby
+C. Gilbert O' Sullivan
+D. George Rogers Clark","A","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0072","mmlu_miscellaneous","Advanced","Which of these is not a type of primate?
+
+Options:
+A. baboon
+B. marmot
+C. orangutan
+D. chimpanzee","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0073","mmlu_miscellaneous","Advanced","Phoebe Dione and Helene are moons of what planet?
+
+Options:
+A. Jupiter
+B. Saturn
+C. Neptune
+D. Pluto","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0074","mmlu_miscellaneous","Advanced","When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities?
+
+Options:
+A. Salary expense is increased by $300,000; cash is increased by $300,000
+B. Salary expense is increased by $300,000; cash is decreased by $300,000
+C. Salary expense is decreased by $300,000; cash is increased by $300,000
+D. Salary expense is decreased by $300,000; cash is decreased by $300,000","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0075","mmlu_miscellaneous","Advanced","The common term for someone who has difficulty seeing objects in the distance is what?
+
+Options:
+A. farsighted
+B. nearsighted
+C. hindsighted
+D. hypermetropic","B","Advanced-level knowledge required in miscellaneous.","MMLU","miscellaneous"
+"P0076","mmlu_nutrition","Advanced","On an average daily basis, the gross energy intake of a healthy woman is 9279 kJ, the energy content of her faeces and urine are 647 kJ and 318 kJ, respectively. Her average daily digestible energy intake and metabolisable energy intake would be, respectively,:
+
+
+Options:
+A. 647 kJ and 318 kJ
+B. 9279-318 kJ and 9279-647 kJ
+C. 9279+318 kJ and 9279+647 kJ
+D. 9279-647 kJ and 9279-(647+318) kJ","D","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0077","mmlu_nutrition","Advanced","Was T.R. Malthus correct in concluding that population growth will outstrip food production growth?
+
+
+Options:
+A. No, technological and institutional innovations have permitted food supplies to more than keep pace with population growth.
+B. Yes, it is only because of widespread famines that population has not overwhelmed food supplies altogether.
+C. No, but it is only because of the introduction of genetically modified food that supplies have kept pace with population growth.
+D. No, but supplies are not likely to keep pace with population growth over the next 10 years.","A","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0078","mmlu_nutrition","Advanced","Colonic microbiome:
+
+
+Options:
+A. Is present in babies in utero
+B. Is a cause of eosinopjhilic oesophagitis
+C. Is easily changed by probiotic supplementation
+D. May be changed with consumption of oligo-saccharides","D","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0079","mmlu_nutrition","Advanced","What is the typical body composition of a normal weight young adult man?
+
+
+Options:
+A. Fat = 17%, Fat Free Mass=83%, Intracellular Fluid= 40%, Extracellular Fluid= 20%
+B. Fat = 83%, Fat Free Mass=40%, Intracellular Fluid= 17%, Extracellular Fluid= 20%
+C. Fat = 20%, Fat Free Mass=17%, Intracellular Fluid= 40%, Extracellular Fluid= 83%
+D. Fat = 40%, Fat Free Mass=20%, Intracellular Fluid= 17%, Extracellular Fluid= 83%","A","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0080","mmlu_nutrition","Advanced","Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following symptoms and signs:
+
+
+Options:
+A. severe atopic dermatitis
+B. enterocolitis
+C. diarrhoea
+D. all of the above","D","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0081","mmlu_nutrition","Advanced","Which of the following statements about human amino acid requirements in human nutrition is correct?
+
+
+Options:
+A. The amino acid requirements determined for adults is assumed to be the requirement pattern for all ages.
+B. The amino acid requirements determined for adults is assumed to be the requirements for maintenance for all ages.
+C. The amino acid pattern of breast milk is assumed to be the requirement pattern for all children.
+D. The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children.","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0082","mmlu_nutrition","Advanced","Nutrients may pose health risks:
+
+
+Options:
+A. When intakes exceed established ULs (Upper Levels)
+B. At any level greater than a recommended dietary intake
+C. Only when intakes are less than those required for nutritional benefits
+D. Under no known conditions of usual intake","A","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0083","mmlu_nutrition","Advanced","Alcohol is a major risk factor for cancer development. Which alcohol metabolite plays a prominent role in cancer development?
+
+
+Options:
+A. fatty acid ethyl esters (FAEE)
+B. acetate
+C. acetaldehyde
+D. alcohol","C","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0084","mmlu_nutrition","Advanced","Which of the following methods is recommended to screen for malnutrition on admission to hospital?
+
+
+Options:
+A. A 7-day food diary
+B. The MUST tool
+C. Serum albumin concentration
+D. Demi-span","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0085","mmlu_nutrition","Advanced","It has been observed that a reduction in family size and improved sanitary condition have led to an increase in allergic conditions. The 'hygiene hypothesis' suggests that
+
+
+Options:
+A. The frequent use of antiseptic swipes will reduce allergies
+B. Living on a working farm will help reducing the development of atopic diseases
+C. Particular care must be taken during breast feeding in high risk infants
+D. Living on a working farm will increase the development of atopic diseases","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0086","mmlu_nutrition","Advanced","Which of the following contributes to vitamin B12 deficiency in older adults?
+
+
+Options:
+A. Reduced secretion of intrinsic factor
+B. Atrophic gastritis
+C. Helicobacter pylori infection
+D. All of the above","D","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0087","mmlu_nutrition","Advanced","In which form is selenium found in the 25 human selenoproteins?
+
+
+Options:
+A. Selenophosphate
+B. Selenocysteine
+C. Selenohistidine
+D. Selenate","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0088","mmlu_nutrition","Advanced","Which of the following statements is incorrect regarding fatty acid ß-oxidation?
+
+
+Options:
+A. The major site of fatty acid ß-oxidation is the peroxisomes, the mitochondria also contain enzymes for this pathway
+B. Within the liver peroxisomes serve to oxidise very long chain fatty acids to medium chain products
+C. The rate of b-oxidation is regulated by the availability of fatty acids and the rate of utilisation of b-oxidation products
+D. Peroxisomes are the site for the degradation of xenobiotics and eicosanoids","A","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0089","mmlu_nutrition","Advanced","Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people because:
+
+
+Options:
+A. Animals are generally much less sensitive than people
+B. Such tests can detect only very large risks because of the fact that only small numbers of animals can be used
+C. It is difficult in such studies to determine whether the observed toxic effects were caused by the substance
+D. It is the only way to ensure results are applicable to people","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0090","mmlu_nutrition","Advanced","Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water?
+
+
+Options:
+A. 10
+B. 25
+C. 30
+D. 32","D","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0091","mmlu_nutrition","Advanced","Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. causing clinical symptoms. Infants and children normally express sufficient lactase levels as not to experience clinical symptoms. Overall, adults can be classified as lactase-persisters or lactase non-persisters. What is the approximate percentage of Lactase non-persisters worldwide?
+
+
+Options:
+A. 45%-50%
+B. 70%-75 %
+C. 10%-15%
+D. 30%-35%","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0092","mmlu_nutrition","Advanced","Which of the following statements about protein structure is correct?
+
+
+Options:
+A. The sequence of amino acids in a protein is its tertiary structure
+B. Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion.
+C. Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate render the amino acid(s) unavailable for digestion.
+D. All proteins have the same secondary structure","C","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0093","mmlu_nutrition","Advanced","The most direct method for measuring body composition is:
+
+
+Options:
+A. underwater weighing
+B. Skinfold test
+C. Body mass index
+D. weight","A","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0094","mmlu_nutrition","Advanced","What is the phenotype of a congenital disorder impairing the secretion of leptin?
+
+
+Options:
+A. Normal energy intake, normal body weight and hyperthyroidism
+B. Obesity, excess energy intake, normal growth and hypoinsulinaemia
+C. Obesity, abnormal growth, hypothyroidism, hyperinsulinaemia
+D. Underweight, abnormal growth, hypothyroidism, hyperinsulinaemia","C","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0095","mmlu_nutrition","Advanced","Which of the following statements is correct regarding intracellular fat metabolism?
+
+
+Options:
+A. The mechanism by which non-esterified fatty acids are taken up by cells is by diffusion only.
+B. The mechanism by which non-esterified fatty acids are taken up by cells is by a combination of diffusion and carrier-mediated transport involving fatty acid binding, translocase and transport proteins.
+C. The mechanism by which non-esterified fatty acids are taken up by cells is by a combination of diffusion and carrier-mediated transport involving fatty acid esterification, synthesis and transport proteins.
+D. The mechanism by which non-esterified fatty acids are taken up by cells is by carrier-mediated transport only involving fatty acid binding, translocase and transport proteins.","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0096","mmlu_nutrition","Advanced","Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient?
+
+
+Options:
+A. Vitamin C
+B. Folate
+C. Vitamin B12
+D. Calcium","C","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0097","mmlu_nutrition","Advanced","What is the primary method of dietary assessment used in epidemiological studies?
+
+
+Options:
+A. Weighed diary
+B. Unweighed diary
+C. 24-hour recall
+D. Food frequency questionnaire","D","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0098","mmlu_nutrition","Advanced","Which of these factors reduces the risk for cancer of the colorectum?
+
+
+Options:
+A. Vitamin C
+B. Dietary fibre
+C. Alcohol
+D. Oestrogen","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0099","mmlu_nutrition","Advanced","Which vitamin is required for synthesis of the blood clotting proteins?
+
+
+Options:
+A. Vitamin A
+B. Vitamin D
+C. Vitamin E
+D. Vitamin K","D","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0100","mmlu_nutrition","Advanced","Which of the following statements is correct?
+
+
+Options:
+A. Cholesterol mainly occurs in the cell walls of bacterial cells
+B. Cholesterol mainly occurs in the cell walls of mammalian cells
+C. Cholesterol mainly occurs in the cell walls of yeast cells
+D. Cholesterol mainly occurs in plant cell walls.","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0101","mmlu_nutrition","Advanced","Which of the following statements is correct?
+
+
+Options:
+A. Starch mainly contains amylose, which is a polymer of fructose with alpha 1,4-linkages
+B. Starch mainly contains amylose, which is a polymer of glucose with alpha 1,4-linkages
+C. Starch mainly contains amylose, which is a polymer of fructose with beta 1,4-linkages
+D. Starch mainly contains amylose, which is a polymer of glucose with beta 1,4-linkages","B","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0102","mmlu_nutrition","Advanced","What are the main causes of the obesity epidemic?
+
+
+Options:
+A. Increased energy quantity/density and a more sedentary life-style
+B. Decreased leisure time activity
+C. Changes in genetic profiles
+D. None of the options given is correct","A","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0103","mmlu_nutrition","Advanced","Ulcerative Colitis
+
+
+Options:
+A. Carries a risk of colonic cancer
+B. Can be treated with a LOFFLEX diet
+C. Can be caused by small intestinal bacterial overgrowth
+D. Can be caused by milk intolerance","A","Advanced-level knowledge required in nutrition.","MMLU","nutrition"
+"P0104","mmlu_professional_medicine","Professional","A 35-year-old woman comes to the office because of a 3-day history of severe right back pain. She has not had any fever, chills, or weight loss. She has no history of major medical illness. Musculoskeletal and neurologic examinations show no abnormalities. When told that her examination is normal, the patient becomes tearful and demands an MRI of her back because her mother just died from breast cancer metastatic to bone and she fears that she may also have cancer. The patient already contacted her insurance company, who told her that if she has neurologic abnormalities an MRI may be covered by her plan. The patient asks the physician to order the MRI indicating that she has neurologic findings. Which of the following is the most appropriate initial action by the physician?
+
+Options:
+A. Advise the patient to change insurance companies as soon as she is able so that she can receive more comprehensive medical care
+B. Explain that the patient does not need the MRI and that it is not appropriate to misrepresent her examination findings
+C. Immediately inform the patient's insurance company about what the patient has asked the physician to do
+D. Order the MRI as the patient requests","B","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0105","mmlu_professional_medicine","Professional","A 60-year-old man had a total thyroidectomy and excision of enlarged left jugular lymph nodes for follicular carcinoma. The operation was uncomplicated. He is receiving intravenous 5% dextrose and 0.45% saline with potassium. Twelve hours after the operation he develops circumoral numbness and paresthesias in his fingertips, and he becomes very anxious. Vital signs are temperature 37.6°C (99.7°F), pulse 90/min, respirations 16/min, and blood pressure 140/90 mm Hg. Physical examination discloses a dry neck dressing and no stridor. Extremities are warm, with brisk capillary refill time. Additional physical examination is most likely to show which of the following?
+
+Options:
+A. Babinski sign present bilaterally
+B. Chvostek sign
+C. Deviation of the tongue to the left side
+D. A drooping left shoulder","B","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0106","mmlu_professional_medicine","Professional","A 55-year-old man who is a business executive is admitted to the hospital for evaluation of abdominal pain. He is polite to the physician but berates the nurses and other staff. The patient's wife and two of his three adult children arrive for a visit. The patient says with disgust that the missing child is and always has been worthless. Which of the following is the most likely explanation for this patient's behavior?
+
+Options:
+A. Projection
+B. Projective identification
+C. Reaction formation
+D. Splitting","D","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0107","mmlu_professional_medicine","Professional","A 22-year-old woman contacts a medical student and asks if he would like to join her for dinner. The student met the woman when he was assigned to her care during her 2-week hospitalization for treatment of major depressive disorder. He has not treated or seen the patient since she was discharged from the hospital. He is attracted to this former patient and would be interested in dating her. Which of the following is the most appropriate action by the medical student regarding this patient's invitation?
+
+Options:
+A. He can date her because he was a medical student, not a physician, when he contributed to her care
+B. He can date her because she is no longer his patient
+C. He can date her, but only after at least 1 year has passed since he treated her
+D. He cannot date her because she was once his psychiatric patient","D","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0108","mmlu_professional_medicine","Professional","A previously healthy 19-year-old college student comes to student health services 24 hours after the onset of headache, stiff neck, and sensitivity to light. She does not recall any sick contacts. She had chickenpox at the age of 7 years. Her most recent examination 1 year ago included PPD skin testing and showed no abnormalities. She takes a daily multivitamin and an herbal weight-loss preparation. She received all appropriate immunizations during childhood but has not received any since then. She does not smoke, drink alcohol, or use illicit drugs. There is no family history of serious illness. She appears lethargic. Her temperature is 39.1°C (102.4°F), pulse is 112/min, respirations are 20/min, and blood pressure is 100/68 mm Hg. Examination shows diffuse petechiae. Kernig and Brudzinski signs are present. The remainder of the examination shows no abnormalities. A lumbar puncture is performed. Cerebrospinal fluid (CSF) analysis shows numerous segmented neutrophils and a decreased glucose concentration. A Gram stain of the CSF shows gram-negative cocci. Which of the following is the most appropriate pharmacotherapy?
+
+Options:
+A. Ceftriaxone
+B. Clindamycin
+C. Erythromycin
+D. Metronidazole","A","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0109","mmlu_professional_medicine","Professional","A 14-year-old girl is brought to the physician after her mother learned that she began having sexual intercourse with various partners 1 month ago. She does not use condoms or other contraception. The mother is concerned about her behavior. The patient's parents separated 3 months ago. She had been an honor student and excelled in sports and leadership positions at school before the separation. Since the separation, however, she has become sullen, defiant, and rebellious. She has begun smoking cigarettes, disobeying her curfew, and being truant from school. This patient is most likely using which of the following defense mechanisms?
+
+Options:
+A. Acting out
+B. Displacement
+C. Projection
+D. Reaction formation","A","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0110","mmlu_professional_medicine","Professional","A 31-year-old woman, gravida 3, para 2, who is at 32 weeks' gestation, is admitted to the hospital because of a 1-week history of progressive dyspnea and wheezing. She says her heart is ""racing"" and she is coughing up a small amount of bloodstreaked sputum. Medical history is significant for hypothyroidism, for which she takes levothyroxine. An intravenous catheter is placed. Vital signs are temperature 36.9°C (98.4°F), pulse 132/min, respirations 32/min, and blood pressure 135/78 mm Hg. Pulse oximetry on 100% oxygen via nasal cannula shows an oxygen saturation of 92%. Auscultation of the lungs discloses decreased breath sounds at the bases with expiratory crackles bilaterally. Cardiac examination discloses an irregularly irregular rhythm, an indistinct point of maximal impulse, and a loud S1. A grade 3/6, low-pitched, diastolic, rumbling murmur is audible at the apex; a distinct snapping sound precedes the murmur. Fetal heart rate is 144/min. Which of the following is the most likely cause of the findings in this patient?
+
+Options:
+A. Chronic mitral regurgitation secondary to rheumatic heart disease
+B. Coarctation of the aorta
+C. Congenital aortic stenosis
+D. Mitral stenosis complicated by atrial fibrillation","D","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0111","mmlu_professional_medicine","Professional","A 22-year-old woman comes to the physician in October for a follow-up examination. She feels well. She has a 2-year history of type 1 diabetes mellitus controlled with insulin. She had a normal Pap smear 3 months ago and saw her ophthalmologist 6 months ago. Her 67-year-old grandmother has breast cancer. She is 168 cm (5 ft 6 in) tall and weighs 57 kg (125 lb); BMI is 20 kg/m2 . Her hemoglobin A1c is 6.2%, and fingerstick blood glucose concentration is 118 mg/dL. Which of the following health maintenance recommendations is most appropriate at this time?
+
+Options:
+A. Dietary modification for weight loss
+B. Human papillomavirus testing
+C. Mammography
+D. Influenza virus vaccine","D","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0112","mmlu_professional_medicine","Professional","A 78-year-old male presents to the office with the complaint of severe neck pain. He rates the pain as a 7 on a scale of 0 to 10 scale. He denies any trauma but reports that he had been doing a lot of painting over the past week. He denies any radicular pain or numbness. Cervical range of motion is moderately limited in all fields. He is treated with articulatory springing technique. Four hours later the physician receives a call from the local emergency department, where the patient presented confused, nauseated, and vertiginous. The physician may be found liable if
+
+Options:
+A. the motion barrier was articulated more than 3 times
+B. the motion barrier was met with a vectored force from the direction of ease
+C. the neck was treated in simultaneous hyperrotation and extension
+D. the patient was previously treated for osteoarthritis of the cervical spine","C","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0113","mmlu_professional_medicine","Professional","A 62-year-old woman comes to the physician because of low back pain for 1 week. Menopause occurred 10 years ago. Physical examination shows localized tenderness over the lumbar spine after movement. X-rays of the spine show a compression fracture of L1-2. A DEXA scan shows decreased bone mineral density. Serum calcium and phosphorus concentrations and serum alkaline phosphatase activity are within the reference ranges. A bisphosphonate drug is prescribed. The expected beneficial effect of this drug is most likely due to which of the following actions?
+
+Options:
+A. Decreased insulin-like growth factor-1 concentration
+B. Decreased osteoclast activity
+C. Decreased osteoprotegerin production
+D. Increased 1,25-dihydroxycholecalciferol concentration","B","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0114","mmlu_professional_medicine","Professional","A 22-year-old woman comes to the office because of a 3-day history of cold symptoms and a 1-week history of progressive fatigue. Six weeks ago, she received a kidney transplant from a living, related donor. Immediately after the operation, she received monoclonal anti-CD3 therapy. Current medications are azathioprine, cyclosporine, and prednisone. Her temperature is 39°C (102.2°F). Physical examination shows a well-healed surgical scar. Serum studies show that her urea nitrogen and creatinine concentrations have tripled. A diagnosis of allograft rejection is suspected. In addition, this patient's clinical presentation is best explained by an infection with which of the following agents?
+
+Options:
+A. Adenovirus
+B. BK virus
+C. Epstein-Barr virus
+D. Herpes simplex virus","B","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0115","mmlu_professional_medicine","Professional","A 57-year-old woman comes to the physician because of an 8-week history of difficulty sleeping, fatigue, and muscle tension. During this period, she also has had memory lapses, difficulty concentrating, and has been reprimanded at work for arriving late. Over the past 2 weeks, she has had three episodes of palpitations and shortness of breath that have awakened her from sleep. Her pulse is 80/min, and blood pressure is 110/90 mm Hg. Physical examination shows no abnormalities. Mental status examination shows a depressed mood and constricted affect. She says that she is no longer interested in activities that she used to enjoy. She has suicidal ideation without a plan. Her hemoglobin concentration is 11 g/dL, and serum ferritin concentration is 140 ng/mL. Which of the following is the most appropriate initial step in treatment?
+
+Options:
+A. Donepezil therapy
+B. Ferrous sulfate therapy
+C. Ginkgo biloba extract therapy
+D. Paroxetine therapy","D","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0116","mmlu_professional_medicine","Professional","A 3-week-old male infant is brought to the office by his mother because of a 2-day history of white lesions in the mouth. The infant was born at term via uncomplicated spontaneous vaginal delivery; he has been breast-feeding well and is urinating and having bowel movements normally. At birth, he weighed 3289 g (7 lb 4 oz; 30th percentile). Today, he weighs 3629 kg (8 lb; 25th percentile). He appears adequately hydrated. Vital signs are normal. Physical examination discloses white patches on the tongue and buccal mucosa that do not come off when gently scraped with a tongue blade. Which of the following is the most appropriate pharmacotherapy?
+
+Options:
+A. Acyclovir
+B. Fluconazole
+C. Nystatin
+D. Valacyclovir","C","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0117","mmlu_professional_medicine","Professional","A 30-year-old nulliparous female presents to the office with the complaint of mood changes. She says that for the past several months she has been anxious, hyperactive, and unable to sleep 3 to 4 days prior to the onset of menses. She further reports that on the day her menses begins she becomes acutely depressed, anorectic, irritable, and lethargic. She has no psychiatric history. Physical examination findings are normal. She and her husband have been trying to conceive for over 2 years. History reveals a tuboplasty approximately 1 year ago to correct a closed fallopian tube. The most likely diagnosis is
+
+Options:
+A. adjustment disorder with depressed mood
+B. bipolar I disorder, mixed
+C. cyclothymic personality
+D. generalized anxiety disorder","A","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0118","mmlu_professional_medicine","Professional","A 24-year-old man comes to the office because of a 2-day history of a red, itchy rash on his buttocks and legs. Four days ago, he returned from a cruise to the Caribbean, during which he swam in the ship’s pool and used the hot tub. He appears well. His vital signs are within normal limits. Physical examination shows the findings in the photograph. The infectious agent causing these findings most likely began to proliferate in which of the following locations?
+
+Options:
+A. Apocrine gland
+B. Dermis
+C. Eccrine gland
+D. Hair follicle","D","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0119","mmlu_professional_medicine","Professional","A 16-month-old girl is brought to the emergency department by emergency medical technicians because of a generalized tonic-clonic seizure that began 25 minutes ago and has continued despite administration of 0.5 mg/kg rectal diazepam 10 minutes ago. The patient was at home at the time of the seizure. In the emergency department, she is given an additional 0.5 mg/kg dose of diazepam intravenously and the convulsion terminates. Within 2 minutes, her oxygen saturation drops to 75% and she appears cyanotic. Respirations are 10/min and shallow. She receives bag-valve-mask ventilation, followed by intubation and mechanical ventilation. Medical history is unremarkable. She takes no medications. Temperature is 39.1°C (102.5°F). Which of the following is the most likely underlying cause of the patient's respiratory insufficiency?
+
+Options:
+A. Airway occlusion
+B. Encephalitis
+C. Medication-induced suppression of central respiratory drive
+D. Meningitis","C","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0120","mmlu_professional_medicine","Professional","A 24-year-old man is brought to the emergency department 40 minutes after he was involved in a motor vehicle collision. He was the unrestrained driver. He is conscious. Physical examination shows numerous lacerations and ecchymoses over the face. His vision is normal. Ocular, facial, and lingual movements are intact. The gag reflex is present. Sensation to pinprick is absent over the right side of the face anterior to the right ear, extending down along the full extent of the mandible to the chin. Sensation also is absent over the right side of the tongue. X-rays of the skull show fractures of the orbit, zygomatic arch, and infratemporal fossa. The most likely cause of these findings is a fracture affecting which of the following locations?
+
+Options:
+A. Foramen lacerum
+B. Foramen ovale
+C. Foramen rotundum
+D. Foramen spinosum","B","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0121","mmlu_professional_medicine","Professional","A 68-year-old female has a history of breast cancer that has recurred twice in the past 5 years. She has undergone both radiation and chemotherapy for metastatic carcinoma to the bone. She presents to the office today to ask for help in dealing with midthoracic back pain to enable her to use less analgesic agents. The most appropriate osteopathic manipulative technique to treat this patient's spine is
+
+Options:
+A. high velocity, low amplitude
+B. indirect myofascial release
+C. isotonic exercise therapy
+D. mid velocity, mid amplitude","B","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0122","mmlu_professional_medicine","Professional","A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pain and mild but persistent vaginal bleeding. Ultrasonography of the abdomen shows a 2-cm ectopic pregnancy in the ampulla. The ampulla has ruptured into the surrounding tissue. Fluid from this rupture will most likely be found in which of the following locations?
+
+Options:
+A. Lesser peritoneal cavity
+B. Mesometrium
+C. Pouch of Douglas
+D. Uterine cavity","C","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0123","mmlu_professional_medicine","Professional","A 67-year-old woman comes to the physician because of dizziness for 6 weeks. When she stands up suddenly, she becomes light-headed and has to steady herself for approximately 1 to 2 minutes before she is able to walk. She has hypertension and type 2 diabetes mellitus. Current medications include glyburide, a diuretic, a β-adrenergic blocking agent, and an angiotensinconverting enzyme (ACE) inhibitor. Her pulse is 55/min. Her blood pressure is 110/70 mm Hg in the right arm and 70/50 mm Hg in the left arm while supine; her blood pressure is 70/50 mm Hg in the right arm and 50/30 mm Hg in the left arm immediately after standing. Neurologic examination shows no focal findings. An ECG shows sinus bradycardia with no evidence of ischemia. Carotid duplex ultrasonography shows reverse flow in the left vertebral artery with no evidence of occlusion. Which of the following is the most appropriate next step in management?
+
+Options:
+A. Cardiac stress scintigraphy
+B. Adjusting her medication regimen
+C. Warfarin therapy
+D. Transesophageal echocardiography","B","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0124","mmlu_professional_medicine","Professional","A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and diffuse, painful swelling of his neck, underarms, and groin area. The symptoms began after returning from a camping trip in New Mexico. He appears ill and lethargic and can barely answer questions. His temperature is 39.2°C (102.5°F), pulse is 120/min, respirations are 22/min, and blood pressure is 110/70 mm Hg. Physical examination shows generalized scattered black maculae. Examination of the right upper extremity shows an erythematous, solid, tender mass on the underside of the upper extremity just above the elbow; the mass is draining blood and necrotic material. The most effective antibiotic for this patient’s disorder will interfere with which of the following cellular processes or enzymes?
+
+Options:
+A. DNA helicase
+B. Glucuronosyltransferase
+C. Proteasomal degradation
+D. Ribosomal assembly","D","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0125","mmlu_professional_medicine","Professional","A 64-year-old female presents to the office with the complaint of difficulty swallowing saliva for about 6 months. She has slurred speech. Examination of the tongue reveals wasting and fasciculation. Decreased deep tendon reflexes and fasciculation are noted in the left lower extremity. The deep tendon reflexes of the left upper extremity are hyperactive. The most likely diagnosis is
+
+Options:
+A. amyotrophic lateral sclerosis
+B. Friedreich ataxia
+C. Pick disease
+D. progressive multifocal leukoencephalopathy","A","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0126","mmlu_professional_medicine","Professional","A 42-year-old man comes to the physician for a follow-up examination. Four months ago, he underwent repair of a Dupuytren contracture. Physical examination shows decreased range of motion in the affected hand. The patient is upset that his hand has not fully healed, and he files a malpractice suit against the physician. Which of the following is the most likely precipitating factor in this patient's decision to file a malpractice suit?
+
+Options:
+A. The patient's perception that the physician is incompetent
+B. The patient's perception that the physician is uncaring
+C. The patient's socioeconomic status
+D. The physician's amount of experience in the medical field","B","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0127","mmlu_professional_medicine","Professional","Three weeks ago a 45-year-old man was admitted to the hospital because of frostbite of both feet. He was treated by rapid rewarming and protective care of the feet. All the toes on the right foot have turned black. He has become slightly febrile and progressively more confused during the past few days. Examination discloses cellulitis in the midfoot. Which of the following is the most appropriate treatment?
+
+Options:
+A. Amputation
+B. Application of topical collagenase
+C. Debridement of necrotic skin over the toes
+D. Hyperbaric oxygen","A","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0128","mmlu_professional_medicine","Professional","A study is being conducted to assess mesothelioma in shipyard workers. A large shipyard firm has provided the asbestos exposure records of all employees during the past 50 years. The health insurer for the workers has provided claims data that documents all chest x-rays and diagnoses of mesothelioma among current workers and retirees. The study enrolled shipyard workers who were diagnosed with mesothelioma and shipyard workers who were not diagnosed with mesothelioma. All subjects in the study had to have chest xrays. Which of the following is the best rationale for selecting a comparison group that had chest x-rays?
+
+Options:
+A. Address confounding
+B. Demonstrate causality
+C. Minimize ascertainment bias
+D. Reduce recall bias","C","Professional-level knowledge required in professional medicine.","MMLU","professional_medicine"
+"P0129","mmlu_clinical_knowledge","Advanced","For very high force contractions lasting 1-2 seconds, the initial energy source is from:
+
+Options:
+A. Glycolysis.
+B. creatine phosphorylation.
+C. phosphocreatine stores.
+D. ATP stores.","D","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0130","mmlu_clinical_knowledge","Advanced","Hypernatraemic dehydration is:
+
+Options:
+A. water intake is less than is needed to maintain balance.
+B. water intake is more than is needed to maintain balance.
+C. blood volume is lost due to trauma or burns.
+D. blood volume is lost due to surgery.","A","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0131","mmlu_clinical_knowledge","Advanced","A person is prescribed Ropinirole 1.5 mg divided into three doses. How many micrograms is each dose? Choose one answer from the following:
+
+Options:
+A. 5
+B. 50
+C. 0.5
+D. 500","D","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0132","mmlu_clinical_knowledge","Advanced","Which of the following processes is not used to modify protein structure after translation has occurred?
+
+Options:
+A. Lipidation.
+B. Attachment of more amino acids via peptide bonds.
+C. Glycosylation.
+D. Phosphorylation.","B","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0133","mmlu_clinical_knowledge","Advanced","Fatty acids are transported into the mitochondria bound to:
+
+Options:
+A. thiokinase.
+B. coenzyme A (CoA).
+C. acetyl-CoA.
+D. carnitine.","D","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0134","mmlu_clinical_knowledge","Advanced","What is the 'normal' range of flexion at the knee joint?
+
+Options:
+A. 0-115 degrees.
+B. 0-135 degrees.
+C. 0-155 degrees.
+D. 0-175 degrees.","B","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0135","mmlu_clinical_knowledge","Advanced","When you are taking a musculoskeletal history which of the following is true?
+
+Options:
+A. Drugs may be implicated in the causation of gout
+B. A history of diarrhoea is not relevant
+C. Difficulty rising from a chair is diagnostic of polymyalgic rheumatica
+D. Joint stiffness of 5 minutes duration suggests an arthropathy","A","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0136","mmlu_clinical_knowledge","Advanced","The main factors determining success in sport are:
+
+Options:
+A. a high energy diet and large appetite.
+B. high intelligence and motivation to succeed.
+C. a good coach and the motivation to succeed.
+D. innate ability and the capacity to respond to the training stimulus.","D","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0137","mmlu_clinical_knowledge","Advanced","How many chromosomes do all human somatic cells contain?
+
+Options:
+A. 3
+B. 20
+C. 23
+D. 46","D","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0138","mmlu_clinical_knowledge","Advanced","Women's world record performances have improved rapidly in recent years mainly because:
+
+Options:
+A. women have evolved a greater muscle mass.
+B. women can now run faster than men.
+C. women have started training at an earlier age.
+D. more women are now engaged in sport.","D","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0139","mmlu_clinical_knowledge","Advanced","Which organ secretes insulin?
+
+Options:
+A. The gastric parietal cells.
+B. The pancreas.
+C. The walls of the large intestine.
+D. The autonomic nervous system.","B","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0140","mmlu_clinical_knowledge","Advanced","The carpal bones are the small bones of the wrist - name them.
+
+Options:
+A. Scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate.
+B. Scaphoid, lunar, triquetrium, pisiform, radius, ulna, capitates.
+C. Scaphoid, proximal phalynx, humerus, hamate, capitate.
+D. Scaphoid, radius, ulna, cunniform, trapezius.","A","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0141","mmlu_clinical_knowledge","Advanced","Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high?
+
+Options:
+A. Glutamine
+B. Glucose
+C. Carnosine
+D. Amylase","C","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0142","mmlu_clinical_knowledge","Advanced","When using an inhaler, when should a patient be asked to rinse their mouth?
+
+Options:
+A. Before using their bronchodilator inhaler.
+B. After using their bronchodilator inhaler.
+C. Before using their steroid inhaler.
+D. After using their steroid inhaler.","D","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0143","mmlu_clinical_knowledge","Advanced","Under which circumstances would you not use a catheter valve?
+
+Options:
+A. If the patient is post-operative.
+B. If the patient chooses it.
+C. If the patient has bladder sensation.
+D. If urine does not need to be measured.","A","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0144","mmlu_clinical_knowledge","Advanced","The genome is:
+
+Options:
+A. the number of chromosomes found in the somatic cells of an organism.
+B. the entire DNA sequence of an organism.
+C. the entire list of proteins that an organism is capable of producing.
+D. the DNA sequence of an entire chromosome.","B","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0145","mmlu_clinical_knowledge","Advanced","What is 'coring'?
+
+Options:
+A. A symptom of phlebitis.
+B. Titration of a drug with its desired effect.
+C. The delivery of medication straight into the bloodstream.
+D. When drugs are withdrawn from a sealed vial, fragments of the rubber bung can be cut out by the needle.","D","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0146","mmlu_clinical_knowledge","Advanced","A hypertonic solution is:
+
+Options:
+A. a solution that has a higher concentration of solutes than the normal human cell.
+B. a solution that blocks off enteral tubes easily.
+C. a solution that has a lower concentration of solutes than the normal human cell.
+D. a solution with a high fibre content.","A","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0147","mmlu_clinical_knowledge","Advanced","Which of the following is true about Addisons Disease?
+
+Options:
+A. It is due to a deficiency of prolactin hormone
+B. Leads to generalized pigmentation
+C. It is a recognized cause of hypertension
+D. Diabetes is a complication","B","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0148","mmlu_clinical_knowledge","Advanced","Which of the following is the same strength as Adrenaline 1 in 1000? Choose one answer from the following:
+
+Options:
+A. 1 mg/mL
+B. 1 mg/L
+C. 1 g/mL
+D. 100 micrograms/mL","A","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0149","mmlu_clinical_knowledge","Advanced","A fundamental cause of fatigue in high intensity exercise is:
+
+Options:
+A. a fall in the cell concentration of ADP.
+B. inhibition of ATP production.
+C. failure of the ATP supply to match the demand.
+D. lack of skill.","C","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0150","mmlu_clinical_knowledge","Advanced","Which of the following is true in diplopia?
+
+Options:
+A. Diplopia can never occur if one eye is covered
+B. The outer image is always the false image
+C. A fourth nerve palsy occurs when the patient looks upwards
+D. A sixth nerve palsy causes a divergent squint","B","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0151","mmlu_clinical_knowledge","Advanced","Which of the following is true of the spine?
+
+Options:
+A. Back pain is an uncommon complaint
+B. Schober's test is designed to quantify the flexion of the lumbar spine
+C. Ankylosing spondylitis is a cause of hypermobility of the spine
+D. Pregnancy is a cause of loss of lordosis of the lumbar spine","B","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0152","mmlu_clinical_knowledge","Advanced","As a general principle what is the best approach to the use of analgesic drugs following surgery?
+
+Options:
+A. Give drugs only 'as required'.
+B. Give drugs regularly with provision for additional 'as required' pain relief for breakthrough pain.
+C. Use long-acting drugs twice daily.
+D. Give only when pain scores are high.","B","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0153","mmlu_clinical_knowledge","Advanced","The most rapid method to resynthesize ATP during exercise is through:
+
+Options:
+A. glycolysis.
+B. phosphocreatine breakdown.
+C. tricarboxylic acid cycle (Krebs' cycle).
+D. glycogenolysis.","B","Advanced-level knowledge required in clinical knowledge.","MMLU","clinical_knowledge"
+"P0154","mmlu_conceptual_physics","Advanced","Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh
+
+Options:
+A. 1/100 as much
+B. 10 times as much
+C. 100 times as much
+D. 1000 times as much","C","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0155","mmlu_conceptual_physics","Advanced","The model of light most supported by the photoelectric effect is the
+
+Options:
+A. wave model
+B. particle model
+C. Both of these
+D. Neither of these","B","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0156","mmlu_conceptual_physics","Advanced","The mass of an atom comes mostly from its _ ; and its volume from its _.
+
+Options:
+A. nucleons; nucleons.
+B. electrons; electrons.
+C. electrons; nucleons.
+D. nucleons; electrons.","D","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0157","mmlu_conceptual_physics","Advanced","A wave transfers
+
+Options:
+A. amplitude
+B. wavelength
+C. frequency
+D. energy","D","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0158","mmlu_conceptual_physics","Advanced","Polarization is a property of
+
+Options:
+A. transverse waves.
+B. longitudinal waves.
+C. all waves.
+D. None of these.","A","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0159","mmlu_conceptual_physics","Advanced","The direction of natural processes is from states of
+
+Options:
+A. higher order to lower order
+B. lower order to higher order
+C. disorganization to organization
+D. disorder to equilibrium","A","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0160","mmlu_conceptual_physics","Advanced","The difference between dc and ac in electric circuits is that in dc, charges flow
+
+Options:
+A. steadily in one direction
+B. in one direction
+C. to and fro
+D. All of these","B","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0161","mmlu_conceptual_physics","Advanced","Most of the radiation in Earth’s biosphere is
+
+Options:
+A. natural background radiation
+B. the result of military activities
+C. from nuclear power plants
+D. in the form of cosmic rays","A","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0162","mmlu_conceptual_physics","Advanced","When small pieces of material are assembled into a larger piece, the combined surface area
+
+Options:
+A. greatly increases
+B. slightly increases
+C. decreases
+D. is unchanged","C","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0163","mmlu_conceptual_physics","Advanced","Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is
+
+Options:
+A. less.
+B. equal.
+C. greater.
+D. none because it sinks.","A","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0164","mmlu_conceptual_physics","Advanced","In the atomic nucleus, electrical forces tend to
+
+Options:
+A. hold particles together
+B. push particles apart
+C. produce orbital motion
+D. charge particles","B","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0165","mmlu_conceptual_physics","Advanced","In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is
+
+Options:
+A. about 1 A
+B. 2 A
+C. Depends on which lamp is closer to the battery
+D. Not enough information to say","D","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0166","mmlu_conceptual_physics","Advanced","When we speak of time dilation, we mean that time
+
+Options:
+A. compresses with speed.
+B. stretches with speed.
+C. is a constant at all speeds.
+D. is related to space.","B","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0167","mmlu_conceptual_physics","Advanced","A barometer that uses water instead of mercury will be
+
+Options:
+A. shorter
+B. taller
+C. equal in height
+D. inoperable","B","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0168","mmlu_conceptual_physics","Advanced","The impulse–momentum relationship is a direct result of Newton’s
+
+Options:
+A. first law
+B. second law
+C. third law
+D. law of gravity","B","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0169","mmlu_conceptual_physics","Advanced","To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is
+
+Options:
+A. one-quarter.
+B. one-half.
+C. the same.
+D. dependent on your distance from the mirror.","B","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0170","mmlu_conceptual_physics","Advanced","Polarization is a property of
+
+Options:
+A. transverse waves
+B. longitudinal waves
+C. all waves
+D. None of these","A","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0171","mmlu_conceptual_physics","Advanced","A satellite in Earth orbit is above Earth’s
+
+Options:
+A. atmosphere
+B. gravitational field
+C. Both
+D. Neither","A","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0172","mmlu_conceptual_physics","Advanced","The fact that the acceleration of free fall is the same for all masses is explained by Newton’s
+
+Options:
+A. first law
+B. second law
+C. third law
+D. law of action–reaction","B","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0173","mmlu_conceptual_physics","Advanced","According to Hooke’s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces
+
+Options:
+A. half the bend.
+B. the same bend if the branch doesn’t break.
+C. twice the bend.
+D. 4 times the bend.","C","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0174","mmlu_conceptual_physics","Advanced","A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be
+
+Options:
+A. 48.0 m
+B. 24.0 m
+C. 6.00 m
+D. 3.00 m","C","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0175","mmlu_conceptual_physics","Advanced","Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore
+
+Options:
+A. the same
+B. opposite
+C. Either of these
+D. Need more information","B","Advanced-level knowledge required in conceptual physics.","MMLU","conceptual_physics"
+"P0176","mmlu_college_medicine","College","Sauna use, sometimes referred to as ""sauna bathing,"" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]
+
+According to the article, which of the following is NOT a benefit of sauna use?
+
+Options:
+A. Decreased risk of heart attacks.
+B. Increase in stroke volume.
+C. Improved mental health.
+D. Decreased rate of erectile dysfunction.","D","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0177","mmlu_college_medicine","College","Pregnancy tests are extremely sensitive and function by detecting levels of B-hCG, or human chorionic gonadotropin, in urine. This hormone is secreted by what tissue, and what is its function?
+
+Options:
+A. Corpus luteum, self-maintenance
+B. Endometrium, cell division
+C. Blastocyst, increase in blood flow
+D. Blastocyst, corpus luteum maintenance","D","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0178","mmlu_college_medicine","College","A young man working with a therapist on becoming more productive is expressing many of his desires throughout growing up and how he feels that it has affected him. Through discernment, the therapist states that he believes the young man’s development is stuck in a stage that reflects itself by his inability to keep his house clean. According to Freud’s theory of psychosexual development, what stage would this young man be fixated in?
+
+Options:
+A. Anal
+B. Phallic
+C. Latent
+D. Genital","B","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0179","mmlu_college_medicine","College","Metabolism is determined by the:
+
+Options:
+A. size of proteins in the cell.
+B. availability of amino acids.
+C. proteins formed as dictated by the genetic material.
+D. amino acid composition of the ribonucleic acids.","C","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0180","mmlu_college_medicine","College","An individual presents to the clinic for initial evaluation and establishment of care. The patient was born 46, XY, but identifies as a female. Her preferred pronouns are She/Her. Additionally, she is sexually active with females only. What would describe the gender and orientation of this individual?
+
+Options:
+A. Cis-gender, heterosexual
+B. Transgender, heterosexual
+C. Cis-gender, homosexual
+D. Transgender, homosexual","D","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0181","mmlu_college_medicine","College","The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:
+
+Options:
+A. six molecules of water.
+B. two molecules of ATP.
+C. three molecules of ATP.
+D. thirty-eight molecules of ATP.","B","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0182","mmlu_college_medicine","College","The net production of ATP via substrate-level phosphorylation in glycolysis is:
+
+Options:
+A. 2 from glucose and 3 from glycogen.
+B. 2 from glucose and 4 from glycogen.
+C. 3 from glucose and 4 from glycogen.
+D. 3 from glucose and 2 from glycogen.","A","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0183","mmlu_college_medicine","College","A scientist carrying out experiments on hearing aids fits 30 mice that were genetically modified to lose their hearing with the latest technology and were tested to press a lever when they heard a bell. This was set to varying levels of power. At 80% power, 20 mice pressed the lever. At 70% power, 15 mice pressed the lever. At 60% power, 10 mice pressed the lever. Which of the following power levels corresponds to the absolute threshold for hearing the decibels produced by the bell?
+
+Options:
+A. 80%
+B. 70%
+C. 60%
+D. Not enough information given.","B","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0184","mmlu_college_medicine","College","Sodium bicarbonate ingestion improves middle distance running performance by:
+
+Options:
+A. elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.
+B. reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.
+C. elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle.
+D. elevating the pre-exercise muscle pH.","A","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0185","mmlu_college_medicine","College","A fundamental cause of fatigue in high intensity exercise is:
+
+Options:
+A. a fall in the cell concentration of ADP.
+B. inhibition of ATP production.
+C. failure of the ATP supply to match the demand.
+D. lack of skill.","C","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0186","mmlu_college_medicine","College","The most rapid method to resynthesize ATP during exercise is through:
+
+Options:
+A. glycolysis.
+B. phosphocreatine breakdown.
+C. tricarboxylic acid cycle (Krebs' cycle).
+D. glycogenolysis.","B","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0187","mmlu_college_medicine","College","A psychologist conducts an experiment in which subjects are asked to learn a series of “facts” which are actually statements that have been fabricated by the research team. The subjects consist of undergraduate students at the university where the experiment is being conducted. The subjects are randomly assigned to groups that are compensated either $10 or $20 for their participation, are given either 15 minutes or 30 minutes to learn the facts, and are asked to recall the facts either in the same room in which they learned the facts or in a very different, unfamiliar setting. Which of the following are dependent variables in this experiment?
+I. The amount the subjects were compensated.
+II. The room in which the subjects were asked to recall facts.
+III. The number of facts the subjects can recall.
+IV. The time the subjects were given to learn the facts.
+
+Options:
+A. II only
+B. III only
+C. I and IV only
+D. I and III and IV only","B","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0188","mmlu_college_medicine","College","A scientist, using electrodes, is stimulating a group of neurons in the hypothalamus and recording their membrane potential changes. She observes a sharp rise in membrane potential when she first stimulates them, the the difference of 100mV. When she tries another stimulation immediately after the first, there is no response. However, when she increase the amount of voltage she supplies to the second shock, she observes a similar response to the first. What time period of stimulation would the second shock be characterized in regards to membrane potential?
+
+Options:
+A. Depolarization
+B. Repolarization
+C. Hyperpolarization
+D. Resting potential","C","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0189","mmlu_college_medicine","College","During muscular contraction, interactions between myosin and actin allow for shortening of each sarcomere. In addition to the power stroke, what other process of muscle contraction requires ATP?
+
+Options:
+A. Tropomyosin-troponin interaction
+B. Myosin-actin interaction
+C. Calcium-troponin interaction
+D. Myosin-actin detachment","D","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0190","mmlu_college_medicine","College","Two scientists at a conference on evolution take to the stage on day 3 to argue their theories against one other. Each is a devout student of their own philosophy. The first scientist contends that organisms evolved via the increase of organs that were used the most during their time. They would then pass these on to subsequent generations. The second scientist, however, believed that advantages each organism possessed were absent for a long time, randomly occurred, and when they were beneficial, that organism would rapidly populate the population over a short period of time, evolutionarily speaking. Which of the following statements would strengthen the second scientist’s argument?
+
+Options:
+A. A study that shows that bodybuilders who train more have larger children.
+B. A taxonomy study that shows long periods of stagnant growth followed by short burst of massive evolution.
+C. A study that showed a species who were more successful due to the things they learned over their lifetime that they passed on to their children.
+D. A study that showed a consistent amount of time between the emergence of each new species.","B","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0191","mmlu_college_medicine","College","Performance enhancing synthetic steroids are based on the structure of the hormone:
+
+Options:
+A. testosterone.
+B. cortisol.
+C. progesterone.
+D. aldosterone.","A","College-level knowledge required in college medicine.","MMLU","college_medicine"
+"P0192","mmlu_virology","Advanced","The group that permits analysis of the entire natural history of HIV/AIDS is:
+
+Options:
+A. Persistent seronegatives
+B. Long-term survivors
+C. Seroconverters
+D. Long-term survivors with low levels of CD4+ cells","C","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0193","mmlu_virology","Advanced","Nipah is a zoonotic paramyxovirus; where did it originate?
+
+Options:
+A. Originating in pigs
+B. Originating in bats
+C. Coming from humans
+D. Coming from horses","C","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0194","mmlu_virology","Advanced","Of the following factors, which are the most important factors for virus spread and infection?
+
+Options:
+A. Age
+B. Sex
+C. Genetic factors
+D. Travel","D","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0195","mmlu_virology","Advanced","The risk of perinatal transmission of HIV-1 infection during breast feeding is increased due to:
+
+Options:
+A. Mixed feeding
+B. Very early introduction of solids
+C. Both a and b
+D. None of them","C","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0196","mmlu_virology","Advanced","Disease can most often be prevented by which of the following:
+
+Options:
+A. Vaccines
+B. Antivirals
+C. Hygiene
+D. mosquito nets","A","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0197","mmlu_virology","Advanced","The replication of hepatitis B includes which of the following stages?
+
+Options:
+A. Movement of intact virus to the cellular cytoplasm for replication
+B. Conversion of relaxed circular viral DNA in to covalently closed circular (CCC) DNA in the nucleus
+C. Virions produced in the cytoplasm by cellular DNA polymerase
+D. Oncogenic activity to transform liver cells.","C","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0198","mmlu_virology","Advanced","What is the most common way for a virus to kill a cell?
+
+Options:
+A. Dissolves the cellular membrane
+B. Induces apoptosis via caspases
+C. Fragments cellular DNA
+D. Totally blocks cellular transcription","B","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0199","mmlu_virology","Advanced","What is the usual direction of 'knowledge' in a cell?
+
+Options:
+A. From protein to DNA
+B. From DNA to DNA
+C. From DNA to RNA to protein
+D. Random","C","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0200","mmlu_virology","Advanced","Which unique form does the rabies virus take?
+
+Options:
+A. The virion has a dumbbell appearance
+B. It is shaped like a bullet from a gun
+C. The virus is star shaped
+D. The virion is very pleomorphic","D","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0201","mmlu_virology","Advanced","What is urban yellow fever (YF)?
+
+Options:
+A. Part of a cycle of mosquitoes biting humans in cities
+B. Part of a cycle of mosquitoes biting humans and monkeys in forested areas
+C. A mutant of the YF virus
+D. A YF species that has adapted to new mosquitoes","A","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0202","mmlu_virology","Advanced","The single most important key to the success of the Multicenter AIDS Cohort (MACS) is:
+
+Options:
+A. The brilliance of the principal investigator
+B. The commitment of the staff
+C. The commitment of the participants
+D. The quality of the laboratories","C","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0203","mmlu_virology","Advanced","Which of the following drugs inhibit herpes viruses?
+
+Options:
+A. Amantadine
+B. Acyclovir
+C. Oseltamivir
+D. Azidothymidine","D","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0204","mmlu_virology","Advanced","How many people globally are currently infected with hepatitis B?
+
+Options:
+A. 350 million
+B. 2 billion
+C. 100,000
+D. 1 million","A","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0205","mmlu_virology","Advanced","How does rubella cause foetal abnormalities?
+
+Options:
+A. By crossing the placenta early in pregnancy and infecting the foetus
+B. By only infecting the placenta
+C. By inducing cytokines and chemokines in the mother
+D. By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus","A","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0206","mmlu_virology","Advanced","The three key intervention strategies according to Professor Shoptaw are:
+
+Options:
+A. Behavioral intervention, treatment and structural interventions
+B. Condoms, drug therapy and regulation of commercial sex establishments
+C. Drug replacement therapy, community intervention and needle exchange
+D. HIV testing, drug therapy and condom use","A","Advanced-level knowledge required in virology.","MMLU","virology"
+"P0207","mmlu_logical_fallacies","Advanced","Tan ah Tiat, forty-nine years old, a native of Kuala Lumpar, Malaysia, was charged with possession of opium. Arguing for acquittal, he told the judge that his opium habit did no harm, as he was too old to work anyway. Asked how he lived, he replied that he lived on the earnings of his grandmother.
+
+Options:
+A. Straw Man
+B. False Dilemma
+C. Inconsistency
+D. Appeal to Authority","C","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0208","mmlu_logical_fallacies","Advanced","Men are better drivers than women are. The proof of this is that men are more capable than women of managing cars on the road.
+
+Options:
+A. Begging the question
+B. Ad hominem (Attacking the Person)
+C. False Dilemma
+D. Appeal to Pity","A","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0209","mmlu_logical_fallacies","Advanced","Which fallacy happens when someone argues in favor of a two part proposition, only supports one part of the proposition, then asserts that the entire proposition has been supported.
+
+Options:
+A. a priori
+B. Complex proposition
+C. Extension
+D. Appeal to ignorance","B","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0210","mmlu_logical_fallacies","Advanced","The appeal to anonymous authority fallacy consists of
+
+Options:
+A. reasoning that an act or series of acts should be carried out because they will have no significant consequences, when there is no evidence there will be no consequences.
+B. arguing that a claim should be accepted based on the evidence that a large number of people accept it
+C. arguing that something should be done because it has been done in the past
+D. arguing a claim should be accepted based only on the assertion that unidentified authorities accept it","D","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0211","mmlu_logical_fallacies","Advanced","Which of the following statements is **not** true?
+
+Options:
+A. A formally valid syllogism may be materially untrue
+B. A formally valid syllogism must be materially true
+C. A materially true conclusion may arise from a formally valid syllogism
+D. The formal validity of a syllogism does not guarantee it is materially true","B","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0212","mmlu_logical_fallacies","Advanced","Which of the following describes he fallacy of appeal to pride?
+
+Options:
+A. arguing a claim should be accepted based only on evidence that unidentified authorities accept it.
+B. arguing someone should accept a claim based only on the evidence that he or she has the favorable characteristics to understand the truth of the claim.
+C. arguing something should be done based only on evidence that it's been done that way in the past, or should be believed only because it's been believed for a long time.
+D. arguing that an act or series of acts should be carried out because they will have no significant consequences, when there is no evidence for the lack of significant effects.","B","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0213","mmlu_logical_fallacies","Advanced","If someone says if you do something it will lead to extreme consequences, but doesn't provide you with any evidence of a cause and effect relationship between your act and those consequences, that person has probably committed which of the following fallacies?
+
+Options:
+A. ad nauseam
+B. self evident truths
+C. slippery slope
+D. suppressed evidence","C","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0214","mmlu_logical_fallacies","Advanced","Which of the following describes the fallacy of appeal to popularity?
+
+Options:
+A. saying someone should do something because he or she dislikes someone else
+B. saying someone should do something to be better liked by others
+C. saying someone should do something because it will make him or her feel good
+D. saying someone should accept an idea because of the source of the idea","B","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0215","mmlu_logical_fallacies","Advanced","The fallacy of guilt by association is a specific type of
+
+Options:
+A. Fallacy of accident
+B. Laudatory personality
+C. Begging the question
+D. Circular reasoning","A","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0216","mmlu_logical_fallacies","Advanced","Which of the following describes the fallacy of false consolation?
+
+Options:
+A. arguing against a position based only on negative personal feelings toward the position
+B. responding to charges of wrongdoing by saying others do things as bad or worse
+C. arguing that someone is not really harmed because things could be worse or by pointing out what they have to be thankful for
+D. using threats of harm instead of reasoning to get agreement","C","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0217","mmlu_logical_fallacies","Advanced","_Ad hominem_ is another name for the fallacy of
+
+Options:
+A. appeal to loyalty
+B. reducing to an absurdity
+C. ignorance of refutation
+D. argument against the person","D","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0218","mmlu_logical_fallacies","Advanced","The black-or-white fallacy is another name for
+
+Options:
+A. The fallacy of accident
+B. False dilemma
+C. Begging the question
+D. Circular reasoning","B","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0219","mmlu_logical_fallacies","Advanced","Arguing that a claim must be true merely because a substantial number of people believe it is called the fallacy of...
+
+Options:
+A. Tu quoque
+B. Composition
+C. Appeal to the masses
+D. Appeal to reason","C","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0220","mmlu_logical_fallacies","Advanced","Which type of syllogism's major premise takes the form, ""All A's are B""?
+
+Options:
+A. categorical
+B. disjunctive
+C. conditional
+D. hypothetical","A","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0221","mmlu_logical_fallacies","Advanced",""" _Ad crumenam_ "" is a specific kind of
+
+Options:
+A. False analogy
+B. Hasty Generalization
+C. False sign
+D. Hasty Conclusion","C","Advanced-level knowledge required in logical fallacies.","MMLU","logical_fallacies"
+"P0222","mmlu_astronomy","Advanced","The nebular theory of the formation of the solar system successfully predicts all but one of the following. Which one does the theory not predict?
+
+Options:
+A. Planets orbit around the Sun in nearly circular orbits in a flattened disk.
+B. the equal number of terrestrial and jovian planets
+C. the craters on the Moon
+D. asteroids Kuiper-belt comets and the Oort cloud","B","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0223","mmlu_astronomy","Advanced","Find the best approximation for the surface temperature of the Sun:
+
+Options:
+A. 6000 K
+B. 7000 K
+C. 9000 K
+D. 13000 K","A","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0224","mmlu_astronomy","Advanced","The two moons of Mars are called ...
+
+Options:
+A. Tritos and Desmos
+B. Tritos and Deimos
+C. Phobos and Tritos
+D. Phobos and Deimos","D","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0225","mmlu_astronomy","Advanced","Earth has been gradually warming over the past few decades. Based on a great deal of evidence scientists conclude that this warming is caused by ________.
+
+Options:
+A. human activities that are increasing the concentration of greenhouse gases in Earth's atmosphere
+B. the fact that our politicians spout a lot of hot air
+C. the human release of chemicals called CFCs into the stratosphere
+D. the increase in forest fires during recent years","A","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0226","mmlu_astronomy","Advanced","From shortest to longest wavelength which of the following correctly orders the different categories of electromagnetic radiation?
+
+Options:
+A. infrared visible light ultraviolet X rays gamma rays radio
+B. radio infrared visible light ultraviolet X rays gamma rays
+C. gamma rays X rays visible light ultraviolet infrared radio
+D. gamma rays X rays ultraviolet visible light infrared radio","D","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0227","mmlu_astronomy","Advanced","Besides large astronomical objects astrophysicists are also interested in small particles from space. Which one of these particles has the weakest interactions with other particles?
+
+Options:
+A. µ Muons
+B. Antiparticles
+C. ν Neutrinos
+D. π Pions","C","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0228","mmlu_astronomy","Advanced","Why are the season's in Mars' southern hemisphere so extreme?
+
+Options:
+A. because Mars is farther from the sun than the Earth
+B. because Mars has more carbon dioxide in its atmosphere than the Earth
+C. because Mars has a more eccentric orbit than the Earth
+D. because Mars' axis is more tilted than the Earth's","C","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0229","mmlu_astronomy","Advanced","The Large Magellanic Cloud is ...
+
+Options:
+A. a dwarf galaxy orbiting the Milky Way.
+B. the closest planetary nebula to the Earth.
+C. a bright star cluster discovered by Magellan.
+D. the outer arm of the Milky Way named after Magellan.","A","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0230","mmlu_astronomy","Advanced","Which of the following is/are common feature(s) of all fresh (i.e. not eroded) impact craters formed on solid surfaces:
+
+Options:
+A. ejecta
+B. raised rims
+C. central peaks
+D. A and B only","D","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0231","mmlu_astronomy","Advanced","On which planet in our solar system can you find the Great Red Spot?
+
+Options:
+A. Venus
+B. Mars
+C. Jupiter
+D. Saturn","C","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0232","mmlu_astronomy","Advanced","Which one of these constellations is not located along the Milky Way in the sky?
+
+Options:
+A. Perseus
+B. Cygnus
+C. Scorpius
+D. Leo","D","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0233","mmlu_astronomy","Advanced","Mars has an atmosphere that is almost entirely carbon dioxide.Why isn't there a strong greenhouse effect keeping the planet warm?
+
+Options:
+A. Mars does not have enough internal heat to drive the greenhouse effect
+B. Mars is too far from the sun for the greenhouse effect to work
+C. the greenhouse effect requires an ozone layer which Mars does not have
+D. the atmosphere on Mars is too thin to trap a significant amount of heat","D","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0234","mmlu_astronomy","Advanced","Why can't we see the Sun's corona except during total solar eclipses?
+
+Options:
+A. The corona is made up mostly of charged particles which aren't luminous.
+B. It's much too cool to emit visible light
+C. We can't see magnetic fields
+D. It's too diffuse","D","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0235","mmlu_astronomy","Advanced","From laboratory measurements we know that a particular spectral line formed by hydrogen appears at a wavelength of 486.1 nanometers (nm). The spectrum of a particular star shows the same hydrogen line appearing at a wavelength of 485.9 nm. What can we conclude?
+
+Options:
+A. The star is getting hotter.
+B. The star is getting colder.
+C. The star is moving toward us.
+D. The star is moving away from us.","C","Advanced-level knowledge required in astronomy.","MMLU","astronomy"
+"P0236","mmlu_electrical_engineering","Advanced","What is used to protect the SCR from over current ?
+
+Options:
+A. CB and fuse.
+B. Heat sink.
+C. Snubber circuit.
+D. Voltage clamping device.","A","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0237","mmlu_electrical_engineering","Advanced","If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is
+
+Options:
+A. DC only
+B. AC only
+C. Either AC or DC
+D. An Impulse","C","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0238","mmlu_electrical_engineering","Advanced","Electric drive is becoming more and more popular because
+
+Options:
+A. all of below.
+B. it provide smooth and easy control.
+C. it is cheaper in cost.
+D. it is simple and reliable.","A","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0239","mmlu_electrical_engineering","Advanced","For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?
+
+Options:
+A. 111.9 ohm
+B. 11.19 ohm
+C. 108 ohm
+D. 115 ohm","A","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0240","mmlu_electrical_engineering","Advanced","What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?
+
+Options:
+A. 2
+B. 4
+C. 5
+D. 6","A","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0241","mmlu_electrical_engineering","Advanced","Which of the following oscillators are used for low frequency (LF) applications
+
+Options:
+A. LC oscillators
+B. RC oscillators
+C. Both LC and RC Oscillators
+D. None","B","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0242","mmlu_electrical_engineering","Advanced","A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is
+
+Options:
+A. 40π coulombs.
+B. 80π coulombs.
+C. 10π coulombs.
+D. none of these.","B","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0243","mmlu_electrical_engineering","Advanced","The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is
+
+Options:
+A. 30
+B. 140.
+C. 150.
+D. 200.","C","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0244","mmlu_electrical_engineering","Advanced","Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be
+
+Options:
+A. 160 µF
+B. 10 µF
+C. 40 µF
+D. 5 µF","A","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0245","mmlu_electrical_engineering","Advanced","Inintel 8085A microprocessor ALE signal is made high to
+
+Options:
+A. Enable the data bus to be used as low order address bus
+B. To latch data D0-D7 from data bus
+C. To disable data bus
+D. To achieve all the functions listed above","A","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0246","mmlu_electrical_engineering","Advanced","How many bits are required to store one BCD digit ?
+
+Options:
+A. 1
+B. 2
+C. 3
+D. 4","D","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0247","mmlu_electrical_engineering","Advanced","The resistivity of the conductor depends on
+
+Options:
+A. area of the conductor.
+B. length of the conductor.
+C. type of material.
+D. none of these.","C","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0248","mmlu_electrical_engineering","Advanced","In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is
+
+Options:
+A. 0.
+B. 0.5.
+C. 1.
+D. none of above.","B","Advanced-level knowledge required in electrical engineering.","MMLU","electrical_engineering"
+"P0249","mmlu_college_biology","College","Which of the following is the best explanation for why net primary productivity in terrestrial ecosystems tends to increase toward the tropics?
+
+Options:
+A. The higher species diversity in the tropics tends to increase plant growth.
+B. There are lower metabolic costs to plant growth in the tropics.
+C. The availability of water and warm temperatures in the tropics fosters photosynthesis.
+D. The tropics have more predators that minimize herbivory.","C","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0250","mmlu_college_biology","College","The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients?
+
+Options:
+A. Tropical rain forest
+B. Tundra
+C. Taiga
+D. Desert","A","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0251","mmlu_college_biology","College","Adequate serum levels of calcium are maintained in humans by the secretion of
+
+Options:
+A. thyroxine
+B. glucagon
+C. growth hormone
+D. parathyroid hormone","D","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0252","mmlu_college_biology","College","Antibiotics that affect bacterial cells interfere with all of the following EXCEPT
+
+Options:
+A. peptidoglycan synthesis
+B. protein synthesis
+C. DNA synthesis
+D. reverse transcriptase","D","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0253","mmlu_college_biology","College","Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the growth cone extend and retract in order to move the growth cone forward. Exposure of the neuron to cytochasalin B at this stage of development causes
+
+Options:
+A. microtubules in the axon to undergo reversible dissociation
+B. microtubules in the axon to undergo irreversible dissociation
+C. microfilaments in the microspike to undergo reversible depolymerization
+D. microfilaments in the microspike to undergo irreversible depolymerization","C","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0254","mmlu_college_biology","College","In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox populations are sometimes attacked by a fatal parasite, the mange mite. As mite population sizes increase at a given site, how are hare and fox populations most likely to respond at the same site? (Assume that hares have no major predators at this site other than foxes.)
+
+Options:
+A. Both fox and hare populations will decrease.
+B. Both fox and hare populations will increase.
+C. Fox populations will decrease and hare populations will increase.
+D. Fox populations will increase and hare populations will decrease.","C","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0255","mmlu_college_biology","College","Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environment. Which of the following represents a form of Batesian mimicry?
+
+Options:
+A. A type of millipede that is toxic to a toad is permanently avoided by the toad following the toad's initial attempt to consume it.
+B. A moth exhibits false eyes at its tail end in order to disorient predators.
+C. A moth exhibits nearly identical coloration to that of a stinging bee.
+D. A ground-nesting gull chick displays a coloration pattern that is nearly indistinguishable from its surroundings.","C","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0256","mmlu_college_biology","College","Which of the following statements concerning the Golgi apparatus of a eukaryote is correct?
+
+Options:
+A. It is oriented in the cytoplasm so that its cis face is closest to the endoplasmic reticulum.
+B. It is typically associated with small secretory vesicles located near its cis face.
+C. Its composite flattened cisternae are continuous with one another.
+D. Glycosylation of certain secretory proteins occurs prior to the protein's entry into its lumen.","A","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0257","mmlu_college_biology","College","The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the
+
+Options:
+A. root cap
+B. Casparian strip
+C. pericycle
+D. endoderm","D","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0258","mmlu_college_biology","College","Which of the following most accurately describes a retrotransposon?
+
+Options:
+A. A DNA sequence that can move from one site in the genome to another without replicating
+B. A DNA sequence that can be deleted from the genome without consequence
+C. A DNA sequence that replicates via an RNA intermediate
+D. A DNA sequence that replicates via a protein intermediate","C","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0259","mmlu_college_biology","College","All of the following may serve as intracellular messengers EXCEPT
+
+Options:
+A. calcium ions
+B. cAMP
+C. acetylcholine
+D. inositol 1,4,5-triphosphate","C","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0260","mmlu_college_biology","College","If the activity of an enzyme is constant over a broad range of pH values, it is likely that
+
+Options:
+A. only ionizing groups on the enzyme participate in the reaction
+B. only ionizing groups on the substrate participate in the reaction
+C. ionizing groups on both the enzyme and substrate participate in the reaction
+D. no ionizing groups on the enzyme or substrate participate in the reaction","D","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0261","mmlu_college_biology","College","Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellular proteins?
+
+Options:
+A. Protein phosphatase
+B. Adenylate cyclase
+C. G protein-linked receptor
+D. Tyrosine kinase","D","College-level knowledge required in college biology.","MMLU","college_biology"
+"P0262","mmlu_anatomy","Advanced","Macrostomia results from failure of fusion of
+
+Options:
+A. maxillary and mandibular processes.
+B. left and right mandibular processes.
+C. maxillary and frontonasal processes.
+D. mandibular and hyoid arches.","A","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0263","mmlu_anatomy","Advanced","In the brain stem, pathways for:
+
+Options:
+A. nociception decussate in the medial lemniscus
+B. skilled movements decussate in the medial lemniscus
+C. skilled motor movements decussate in the pyramids.
+D. discriminative touch decussate in the pyramids.","C","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0264","mmlu_anatomy","Advanced","The head of the sixth rib articulates with
+
+Options:
+A. The inferior articular facet of T5 and superior articular facet of T6.
+B. The inferior articular demifacet of T5 and superior articular facet of T6.
+C. The inferior articular demifacet of T5 and the superior articular demifacet of T6.
+D. The superior and inferior demifacets of T6.","C","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0265","mmlu_anatomy","Advanced","Which of the following allows air to pass into the lungs?
+
+Options:
+A. Aorta
+B. Esophagus
+C. Trachea
+D. Pancreas","C","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0266","mmlu_anatomy","Advanced","Which of the following is the large bone found superior to the patella and inferior to the ischium?
+
+Options:
+A. Calcaneus
+B. Femur
+C. Symphysis pubis
+D. Tibia","B","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0267","mmlu_anatomy","Advanced","A possible effect of damage to the third cranial nerve by trauma to the orbit is
+
+Options:
+A. a convergent strabismus.
+B. ptosis.
+C. pupillary contriction.
+D. bitemporal hemianopia.","B","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0268","mmlu_anatomy","Advanced","Which of the following statements is true of the temporomandibular joint?
+
+Options:
+A. It has an articular disc of hyaline cartilage
+B. Its articular surfaces are covered by hyaline cartilage
+C. Proprioceptive information is carried by the chorda tympani and deep temporal nerves
+D. Proprioceptive information is carried by the masseteric and auriculotemporal nerves.","D","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0269","mmlu_anatomy","Advanced","A successful infraorbital nerve block will produce anaesthesia of the
+
+Options:
+A. maxillary anterior teeth.
+B. maxillary anterior teeth and their labial gingivae.
+C. maxillary anterior teeth, their labial gingivae and the upper lip.
+D. maxillary anterior teeth, their labial gingivae, the upper lip and anterior hard palate.","C","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0270","mmlu_anatomy","Advanced","A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.
+
+Options:
+A. Pupillary constriction
+B. Pupillary constriction and vasodilation of facial vessels
+C. Pupillary constriction, vasodilation of facial vessels and increased facial sweating
+D. Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation","B","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0271","mmlu_anatomy","Advanced","Saliva contains an enzyme that acts upon which of the following nutrients?
+
+Options:
+A. Starches
+B. Proteins
+C. Fats
+D. Minerals","A","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0272","mmlu_anatomy","Advanced","The mucosa of the upper larynx is innervated by the
+
+Options:
+A. internal laryngeal nerve which is the afferent limb of the cough reflex.
+B. external laryngeal nerve which is the afferent limb of the gag reflex.
+C. internal laryngeal nerve which is the afferent limb of the gag reflex.
+D. external laryngeal nerve which is the afferent limb of the cough reflex.","A","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0273","mmlu_anatomy","Advanced","Which of the following conditions is characterized by incompetence of the esophageal sphincter?
+
+Options:
+A. Crohn's disease
+B. Esophageal varices
+C. Gastroesophageal reflux disease
+D. Pyloric stenosis","C","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0274","mmlu_anatomy","Advanced","A pulse may be felt on a patient's face where the
+
+Options:
+A. facial artery crosses the mandible.
+B. facial artery crosses the maxilla.
+C. superficial temporal artery crosses the maxilla.
+D. superficial temporal artery crosses the orbital rim.","A","Advanced-level knowledge required in anatomy.","MMLU","anatomy"
+"P0275","mmlu_formal_logic","Advanced","Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(O ≡ P) ∨ P / P ∨ ~O
+
+Options:
+A. Valid
+B. Invalid. Counterexample when O and P are true
+C. Invalid. Counterexample when O is true and P is false
+D. Invalid. Counterexample when P is true and O is false","A","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0276","mmlu_formal_logic","Advanced"," Select the best translation into predicate logic: No artifacts are people.
+
+Options:
+A. ~Pa
+B. (∀x)(Ax ⊃ ~Px)
+C. ~Ap
+D. (∀x)(Ax • ~Px)","B","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0277","mmlu_formal_logic","Advanced"," Which of the given formulas of PL is the best symbolization of the following sentence?
+Dylan likes neither math nor science.
+
+Options:
+A. M ∨ S
+B. ~(M • S)
+C. ~(M ∨ S)
+D. ~M ∨ ~S","C","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0278","mmlu_formal_logic","Advanced","Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~C ⊃ D
+D ⊃ C / C
+
+Options:
+A. Valid
+B. Invalid. Counterexample when C and D are true
+C. Invalid. Counterexample when C is true and D is false
+D. Invalid. Counterexample when D is true and C is false","A","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0279","mmlu_formal_logic","Advanced"," Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z)
+
+Options:
+A. ~Mmsi
+B. M~mis
+C. ~Mmis
+D. M~msi","C","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0280","mmlu_formal_logic","Advanced"," Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x is cruel; Px: x is a person; Nxy: x neglects y)
+
+Options:
+A. (∃x)[(Ax • Cx) • (∃y)(Py • Nyx)]
+B. (∃x)[(Cx • Px) • (∃y)(Ay • Nxy)]
+C. (∃x)[(Ax • Px) • (∃y)(Cy • Nxy)]
+D. (∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]}","B","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0281","mmlu_formal_logic","Advanced"," Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+M ∨ N
+~M · O / N
+
+Options:
+A. Valid
+B. Invalid. Counterexample when M and O are true and N is false
+C. Invalid. Counterexample when M is true and O and N are false
+D. Invalid. Counterexample when O is true and M and N are false","A","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0282","mmlu_formal_logic","Advanced","Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.
+
+Options:
+A. The Aardvarks do not win their first game.
+B. The Bees win their first game.
+C. The Chipmunks do not win their first game.
+D. Either the Aardvarks or the Chipmunks do not win their first game.","D","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0283","mmlu_formal_logic","Advanced"," Select the best translation into predicate logic: All robots are artifacts.
+
+Options:
+A. (∀x)(Ax ∨ Rx)
+B. (∀x)(Ax • Rx)
+C. (∀x)(Rx ⊃ Ax)
+D. (∀x)(Rx • Ax)","C","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0284","mmlu_formal_logic","Advanced","Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(T · ~U) ⊃ ~W
+~W ⊃ X
+~Z ⊃ W
+~(X · Z) / T ⊃ U
+
+Options:
+A. Valid
+B. Invalid. Counterexample when T, X, and Z are true and U and W are false
+C. Invalid. Counterexample when T and X are true and U, W, and Z are false
+D. Invalid. Counterexample when T, W, and Z are true and U and X are false","A","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0285","mmlu_formal_logic","Advanced"," Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~B • E) ⊃ D
+
+Options:
+A. If it's not the case that both Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.
+B. If it's both not the case that Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.
+C. Izzy playing Minecraft and Ashleigh stopping by entails that Russell makes dinner.
+D. Russell's making dinner is a sufficient condition for Izzy not playing Minecraft and Ashleigh stopping by.","B","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0286","mmlu_formal_logic","Advanced","Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+I ≡ ~J
+I ∨ J / I
+
+Options:
+A. Valid
+B. Invalid. Counterexample when I and J are true
+C. Invalid. Counterexample when I is true and J is false
+D. Invalid. Counterexample when J is true and I is false","D","Advanced-level knowledge required in formal logic.","MMLU","formal_logic"
+"P0287","mmlu_machine_learning","Advanced","Which of the following is/are true regarding an SVM?
+
+Options:
+A. For two dimensional data points, the separating hyperplane learnt by a linear SVM will be a straight line.
+B. In theory, a Gaussian kernel SVM cannot model any complex separating hyperplane.
+C. For every kernel function used in a SVM, one can obtain an equivalent closed form basis expansion.
+D. Overfitting in an SVM is not a function of number of support vectors.","A","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0288","mmlu_machine_learning","Advanced","If your training loss increases with number of epochs, which of the following could be a possible issue with the learning process?
+
+Options:
+A. Regularization is too low and model is overfitting
+B. Regularization is too high and model is underfitting
+C. Step size is too large
+D. Step size is too small","C","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0289","mmlu_machine_learning","Advanced","As of 2020, which architecture is best for classifying high-resolution images?
+
+Options:
+A. convolutional networks
+B. graph networks
+C. fully connected networks
+D. RBF networks","A","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0290","mmlu_machine_learning","Advanced","Another term for out-of-distribution detection is?
+
+Options:
+A. anomaly detection
+B. one-class detection
+C. train-test mismatch robustness
+D. background detection","A","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0291","mmlu_machine_learning","Advanced","Statement 1| Since the VC dimension for an SVM with a Radial Base Kernel is infinite, such an SVM must be worse than an SVM with polynomial kernel which has a finite VC dimension. Statement 2| A two layer neural network with linear activation functions is essentially a weighted combination of linear separators, trained on a given dataset; the boosting algorithm built on linear separators also finds a combination of linear separators, therefore these two algorithms will give the same result.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","B","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0292","mmlu_machine_learning","Advanced","Which of the following is a clustering algorithm in machine learning?
+
+Options:
+A. Expectation Maximization
+B. CART
+C. Gaussian Naïve Bayes
+D. Apriori","A","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0293","mmlu_machine_learning","Advanced","MLE estimates are often undesirable because
+
+Options:
+A. they are biased
+B. they have high variance
+C. they are not consistent estimators
+D. None of the above","B","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0294","mmlu_machine_learning","Advanced","_ refers to a model that can neither model the training data nor generalize to new data.
+
+Options:
+A. good fitting
+B. overfitting
+C. underfitting
+D. all of the above","C","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0295","mmlu_machine_learning","Advanced","Statement 1| The set of all rectangles in the 2D plane (which includes non axisaligned rectangles) can shatter a set of 5 points. Statement 2| The VC-dimension of k-Nearest Neighbour classifier when k = 1 is infinite.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","A","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0296","mmlu_machine_learning","Advanced","Given a Neural Net with N input nodes, no hidden layers, one output node, with Entropy Loss and Sigmoid Activation Functions, which of the following algorithms (with the proper hyper-parameters and initialization) can be used to find the global optimum?
+
+Options:
+A. Stochastic Gradient Descent
+B. Mini-Batch Gradient Descent
+C. Batch Gradient Descent
+D. All of the above","D","Advanced-level knowledge required in machine learning.","MMLU","machine_learning"
+"P0297","mmlu_college_physics","College","Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric effect predicts that the
+
+Options:
+A. work function of the metal is proportional to the frequency
+B. work function of the metal is proportional to the wavelength
+C. current in the tube is a linear function of the wavelength
+D. potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency","D","College-level knowledge required in college physics.","MMLU","college_physics"
+"P0298","mmlu_college_physics","College","The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is required to ionize helium (i.e., to remove one electron)?
+
+Options:
+A. 24.6 eV
+B. 39.5 eV
+C. 51.8 eV
+D. 54.4 eV","A","College-level knowledge required in college physics.","MMLU","college_physics"
+"P0299","mmlu_college_physics","College","An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What is the frequency of the next higher harmonic for this pipe?
+
+Options:
+A. 44 Hz
+B. 196 Hz
+C. 262 Hz
+D. 393 Hz","D","College-level knowledge required in college physics.","MMLU","college_physics"
+"P0300","mmlu_college_physics","College","A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it travel in the lab before decaying?
+
+Options:
+A. 150 m
+B. 288 m
+C. 360 m
+D. 450 m","D","College-level knowledge required in college physics.","MMLU","college_physics"
+"P0301","mmlu_college_physics","College","Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of the beam can be obtained. What is the approximate kinetic energy of the electrons needed in order to see the pattern? (Assume the lattice spacing of the crystal to be 0.4 nm.)
+
+Options:
+A. 0.1 eV
+B. 1 eV
+C. 10 eV
+D. 100 eV","C","College-level knowledge required in college physics.","MMLU","college_physics"
+"P0302","mmlu_college_physics","College","A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be the new rate of energy dissipation?
+
+Options:
+A. 0.25 W
+B. 0.5 W
+C. 1 W
+D. 4 W","D","College-level knowledge required in college physics.","MMLU","college_physics"
+"P0303","mmlu_college_physics","College","A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction of the disk’s total kinetic energy is rotational kinetic energy?
+
+Options:
+A. 1/4
+B. 1/3
+C. 1/2
+D. 2/3","B","College-level knowledge required in college physics.","MMLU","college_physics"
+"P0304","mmlu_college_physics","College","A heat pump is to extract heat from an outdoor environment at 7°C and heat the environment indoors to 27°C. For each 15,000 J of heat delivered indoors, the smallest amount of work that must be supplied to the heat pump is approximately
+
+Options:
+A. 500 J
+B. 1,000 J
+C. 1,100 J
+D. 2,000 J","B","College-level knowledge required in college physics.","MMLU","college_physics"
+"P0305","mmlu_college_physics","College","In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a
+
+Options:
+A. square
+B. hexagon
+C. cube
+D. tetrahedron","D","College-level knowledge required in college physics.","MMLU","college_physics"
+"P0306","mmlu_abstract_algebra","Advanced","Statement 1 | If a group has an element of order 10, then it has elements of orders 1, 2, and 5. Statement 2 | If a group has an element of order 2 and an element of order 3, then it has an element of order 6.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","C","Advanced-level knowledge required in abstract algebra.","MMLU","abstract_algebra"
+"P0307","mmlu_abstract_algebra","Advanced","Statement 1 | If G, H and K are groups of order 4, at least two of them are isomorphic. Statement 2 | If Z_r + Z_s is isomorphic to a subgroup Z_m + Z_n, then r divides m and s divides n.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","C","Advanced-level knowledge required in abstract algebra.","MMLU","abstract_algebra"
+"P0308","mmlu_abstract_algebra","Advanced","(Z,*) is a group with a*b = a+b+1 for all a, b in Z. The inverse of a is
+
+Options:
+A. 0
+B. -2
+C. a-2
+D. (2+a)*-1","D","Advanced-level knowledge required in abstract algebra.","MMLU","abstract_algebra"
+"P0309","mmlu_abstract_algebra","Advanced","Statement 1 | For any two groups G and G', there exists a homomorphism of G into G'. Statement 2 | Every homomorphism is a one-to-one map.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","C","Advanced-level knowledge required in abstract algebra.","MMLU","abstract_algebra"
+"P0310","mmlu_abstract_algebra","Advanced","Let A and B be sets, f: A -> B and g: B -> A be functions such that for all a \in A, g(f(a)) = a. Statement 1 | The function f must necessarily be injective. Statement 2 | The function f must necessarily be surjective.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","C","Advanced-level knowledge required in abstract algebra.","MMLU","abstract_algebra"
+"P0311","mmlu_abstract_algebra","Advanced","Statement 1 | Every permutation is a cycle. Statement 2 | Every cycle is a permutation.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","D","Advanced-level knowledge required in abstract algebra.","MMLU","abstract_algebra"
+"P0312","mmlu_abstract_algebra","Advanced","Statement 1 | Any set of two vectors in R^2 is linearly independent. Statement 2 | If V = span(v1, ... , vk) and {v1, ... , vk} are linearly independent, then dim(V) = k.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","D","Advanced-level knowledge required in abstract algebra.","MMLU","abstract_algebra"
+"P0313","mmlu_abstract_algebra","Advanced","Statement 1 | The external direct product of cyclic groups is cyclic. Statement 2 | The external direct product of D_3 and D_4 is isomorphic to D_12.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","B","Advanced-level knowledge required in abstract algebra.","MMLU","abstract_algebra"
+"P0314","mmlu_abstract_algebra","Advanced","Statement 1 | If H is a subgroup of G and a belongs to G then |aH| = |Ha|. Statement 2 | If H is a subgroup of G and a and b belong to G, then aH and Hb are identical or disjoint.
+
+Options:
+A. True, True
+B. False, False
+C. True, False
+D. False, True","C","Advanced-level knowledge required in abstract algebra.","MMLU","abstract_algebra"
+"P0315","mmlu_college_mathematics","College","If the finite group G contains a subgroup of order seven but no element (other than the identity) is its own inverse, then the order of G could be
+
+Options:
+A. 27
+B. 28
+C. 35
+D. 37","C","College-level knowledge required in college mathematics.","MMLU","college_mathematics"
+"P0316","mmlu_college_mathematics","College","What is the area of an equilateral triangle whose inscribed circle has radius 2?
+
+Options:
+A. 12
+B. 16
+C. 12*sqrt(3)
+D. 16*sqrt(3)","C","College-level knowledge required in college mathematics.","MMLU","college_mathematics"
+"P0317","mmlu_college_mathematics","College","Water drips out of a hole at the vertex of an upside down cone at a rate of 3 cm^3 per minute. The
+cone’s height and radius are 2 cm and 1 cm, respectively. At what rate does the height of the water change
+when the water level is half a centimeter below the top of the cone? The volume of a cone is V = (π/3)*r^2*h,
+where r is the radius and h is the height of the cone.
+
+Options:
+A. −48/π cm/min
+B. −4/(3π) cm/min
+C. −8/(3π) cm/min
+D. −16/(3π) cm/min","D","College-level knowledge required in college mathematics.","MMLU","college_mathematics"
+"P0318","mmlu_college_mathematics","College","Statement 1 | f : X → Y is continuous and X is compact. f must be uniformly continuous. Statement 2 | If f(x), g(x) : R → R are everywhere differentiable f(g(x)) must be everywhere differentiable.
+
+Options:
+A. True, True
+B. True, False
+C. False, True
+D. False, False","A","College-level knowledge required in college mathematics.","MMLU","college_mathematics"
+"P0319","mmlu_college_mathematics","College","What is the units digit in the standard decimal expansion of the number 7^25?
+
+Options:
+A. 1
+B. 3
+C. 5
+D. 7","D","College-level knowledge required in college mathematics.","MMLU","college_mathematics"
+"P0320","mmlu_college_mathematics","College","The maximum number of acute angles in a convex 10-gon in the Euclidean plane is
+
+Options:
+A. 1
+B. 2
+C. 3
+D. 4","C","College-level knowledge required in college mathematics.","MMLU","college_mathematics"
+"P0321","mmlu_college_mathematics","College","Let R be a ring with a multiplicative identity. If U is an additive subgroup of R such that ur in U for all u in U and for all r in R, then U is said to be a right ideal of R. If R has exactly two right ideals, which of the following must be true?
+I. R is commutative.
+II. R is a division ring (that is, all elements except the additive identity have multiplicative inverses).
+III. R is infinite.
+
+Options:
+A. I only
+B. II only
+C. III only
+D. I and II only","B","College-level knowledge required in college mathematics.","MMLU","college_mathematics"
+"P0322","mmlu_college_mathematics","College","Which of the following sets has the greatest cardinality?
+
+Options:
+A. R
+B. The set of all functions from Z to Z
+C. The set of all functions from R to {0, 1}
+D. The set of all finite subsets of R","C","College-level knowledge required in college mathematics.","MMLU","college_mathematics"
+"P0323","mmlu_college_mathematics","College","A discrete graph is complete if there is an edge connecting any pair of vertices. How many edges does a complete graph with 10 vertices have?
+
+Options:
+A. 10
+B. 20
+C. 25
+D. 45","D","College-level knowledge required in college mathematics.","MMLU","college_mathematics"
+"P0324","mmlu_college_chemistry","College","The molecular geometry of thionyl chloride, SOCl2, is best described as
+
+Options:
+A. trigonal planar
+B. T-shaped
+C. tetrahedral
+D. trigonal pyramidal","D","College-level knowledge required in college chemistry.","MMLU","college_chemistry"
+"P0325","mmlu_college_chemistry","College","Elements with partially filled 4f or 5f orbitals include all of the following EXCEPT
+
+Options:
+A. Cu
+B. Gd
+C. Eu
+D. Am","A","College-level knowledge required in college chemistry.","MMLU","college_chemistry"
+"P0326","mmlu_college_chemistry","College","The +1 oxidation state is more stable than the +3 oxidation state for which group 13 element?
+
+Options:
+A. B
+B. Al
+C. In
+D. Tl","D","College-level knowledge required in college chemistry.","MMLU","college_chemistry"
+"P0327","mmlu_college_chemistry","College","The 13C chemical shifts of benzene and chloroform are 128.4 ppm and 77.2 ppm respectively. What is the difference in the 13C NMR frequencies of the two compounds on a 600 MHz spectrometer?
+
+Options:
+A. 7.73 kHz
+B. 30.7 kHz
+C. 91.6 kHz
+D. 122 kHz","A","College-level knowledge required in college chemistry.","MMLU","college_chemistry"
+"P0328","mmlu_college_chemistry","College","Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz.
+
+Options:
+A. Q = 1012
+B. Q = 2012
+C. Q = 3012
+D. Q = 6012","D","College-level knowledge required in college chemistry.","MMLU","college_chemistry"
+"P0329","mmlu_college_chemistry","College","Of the following compounds, which has the lowest melting point?
+
+Options:
+A. HCl
+B. AgCl
+C. CaCl2
+D. CCl4","A","College-level knowledge required in college chemistry.","MMLU","college_chemistry"
+"P0330","mmlu_college_chemistry","College","At 25°C, the maximum amount of PbI2 that can be dissolved in 1.00 L of pure water is 1.0 mmol. Assuming complete dissociation, the solubility product, K_sp, for lead iodide at 25°C is
+
+Options:
+A. 1.0 × 10^−3
+B. 1.0 × 10^−6
+C. 1.0 × 10^−9
+D. 4.0 × 10^−9","D","College-level knowledge required in college chemistry.","MMLU","college_chemistry"
+"P0331","mmlu_college_chemistry","College","Which of the following metal ions cannot be used as a paramagnetic quencher?
+
+Options:
+A. Ti3+
+B. Cr3+
+C. Fe3+
+D. Zn2+","B","College-level knowledge required in college chemistry.","MMLU","college_chemistry"
+"P0332","mmlu_college_chemistry","College","The 1H Larmor frequency of benzene exceeds that of trifluoroacetic acid by 1.656 kHz on a 400 MHz spectrometer. The 1H chemical shift of benzene is 7.16 ppm. What is the chemical shift of trifluoroacetic acid?
+
+Options:
+A. 3.02 ppm
+B. 5.03 ppm
+C. 10.56 ppm
+D. 11.30 ppm","D","College-level knowledge required in college chemistry.","MMLU","college_chemistry"
+"P0333","mmlu_medical_genetics","Advanced","The common mutation in α-thalassaemia consists of:
+
+Options:
+A. a deletion.
+B. a duplication.
+C. an insertion.
+D. a point mutation.","A","Advanced-level knowledge required in medical genetics.","MMLU","medical_genetics"
+"P0334","mmlu_medical_genetics","Advanced","Plasmid vectors for cloning
+
+Options:
+A. can generally accommodate larger inserts than phage vectors can
+B. grow within bacteria, and are present in bacterial colonies on an agar plate
+C. can accommodate inserts of over 100 kilobases
+D. include centromeres to allow propagation in yeast","B","Advanced-level knowledge required in medical genetics.","MMLU","medical_genetics"
+"P0335","mmlu_medical_genetics","Advanced","Male breast cancer is associated with mutations in ___.
+
+Options:
+A. BRCA1
+B. BRCA2
+C. NF1
+D. RET","B","Advanced-level knowledge required in medical genetics.","MMLU","medical_genetics"
+"P0336","mmlu_medical_genetics","Advanced","The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation?
+
+Options:
+A. Down syndrome
+B. Exomphalos
+C. Neural tube defects
+D. Twin pregnancies","A","Advanced-level knowledge required in medical genetics.","MMLU","medical_genetics"
+"P0337","mmlu_medical_genetics","Advanced","The polymerase chain reaction or PCR is a technique that
+
+Options:
+A. was used to demonstrate DNA as the genetic material
+B. is used to determine the content of minerals in a soil sample
+C. uses short DNA primers and a thermostable DNA polymerase to replicate specific DNA sequences in vitro.
+D. measures the ribosome transfer rate during translation","C","Advanced-level knowledge required in medical genetics.","MMLU","medical_genetics"
+"P0338","mmlu_medical_genetics","Advanced","The epigenetic inheritance system has been described as ______ (Mayr and Provine, 1980).
+
+Options:
+A. genotype inheritance
+B. soft inheritance
+C. RNA inheritance
+D. hard inheritance","B","Advanced-level knowledge required in medical genetics.","MMLU","medical_genetics"
+"P0339","mmlu_medical_genetics","Advanced","The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is:
+
+Options:
+A. autosomal dominant.
+B. autosomal recessive.
+C. X-linked dominant.
+D. X-linked recessive.","D","Advanced-level knowledge required in medical genetics.","MMLU","medical_genetics"
+"P0340","mmlu_medical_genetics","Advanced","Which of the following diagnostic techniques is of no value for the diagnosis of neural tube defects?
+
+Options:
+A. Amniocentesis
+B. Chorion villus sampling (CVS)
+C. Maternal serum screening
+D. Ultrasonography","B","Advanced-level knowledge required in medical genetics.","MMLU","medical_genetics"
+"P0341","mmlu_medical_genetics","Advanced","Which of the following is not a chromosome instability syndrome?
+
+Options:
+A. Klinefelter syndrome
+B. Ataxia telangiectasia
+C. Fanconi anaemia
+D. Bloom syndrome","A","Advanced-level knowledge required in medical genetics.","MMLU","medical_genetics"
+"P0342","mmlu_college_computer_science","College","A starvation-free job-scheduling policy guarantees that no job waits indefinitely for service. Which of the following job-scheduling policies is starvation-free?
+
+Options:
+A. Round-robin
+B. Priority queuing
+C. Shortest job first
+D. Youngest job first","A","College-level knowledge required in college computer science.","MMLU","college_computer_science"
+"P0343","mmlu_college_computer_science","College","Which of the following sorting algorithms has average-case and worst-case running times of O(n log n)?
+
+Options:
+A. Bubble sort
+B. Insertion sort
+C. Merge sort
+D. Quicksort","C","College-level knowledge required in college computer science.","MMLU","college_computer_science"
+"P0344","mmlu_college_computer_science","College","Which of the following considerations applies (apply) to choosing the page size in a paging system?
+I. An advantage of larger pages is that they lead to smaller page tables.
+II. An advantage of smaller pages is that they lead to less waste due to internal fragmentation.
+III. Normally, the dominant factor in disk access time is not dependent on page length, so longer pages can be used advantageously.
+
+Options:
+A. I only
+B. II only
+C. I and III only
+D. I, II, and III","D","College-level knowledge required in college computer science.","MMLU","college_computer_science"
+"P0345","mmlu_college_computer_science","College","In multiprogrammed systems it is advantageous if some programs such as editors and compilers can be shared by several users. Which of the following must be true of multiprogrammed systems in order that a single copy of a program can be shared by several users?
+I. The program is a macro.
+II. The program is recursive.
+III. The program is reentrant.
+
+Options:
+A. I only
+B. II only
+C. III only
+D. II and III only","C","College-level knowledge required in college computer science.","MMLU","college_computer_science"
+"P0346","mmlu_college_computer_science","College","For a connected, undirected graph G = (V, E), which of the following must be true?
+I. Σ_{v∈V} degree(v) is even.
+II. |E| ≥ |V| − 1
+III. G has at least one vertex with degree 1.
+
+Options:
+A. I only
+B. II only
+C. III only
+D. I and II","D","College-level knowledge required in college computer science.","MMLU","college_computer_science"
+"P0347","mmlu_college_computer_science","College","Of the following, which best characterizes computers that use memory-mapped I/O?
+
+Options:
+A. The computer provides special instructions for manipulating I/O ports.
+B. I/O ports are placed at addresses on the bus and are accessed just like other memory locations.
+C. To perform an I/O operation, it is sufficient to place the data in an address register and call the channel to perform the operation.
+D. Ports are referenced only by memory-mapped instructions of the computer and are located at hardwired memory locations.","B","College-level knowledge required in college computer science.","MMLU","college_computer_science"
+"P0348","mmlu_college_computer_science","College","The IP protocol is primarily concerned with
+
+Options:
+A. Routing packets through the network
+B. Reliable delivery of packets between directly connected machines
+C. Reliable delivery of large (multi-packet) messages between machines that are not necessarily directly connected
+D. Dealing with differences among operating system architectures","A","College-level knowledge required in college computer science.","MMLU","college_computer_science"
+"P0349","mmlu_college_computer_science","College","An Euler circuit of an undirected graph is a circuit in which each edge of the graph appears exactly once. Which of the following undirected graphs must have an Euler circuit?
+I. A complete graph with 12 vertices
+II. A complete graph with 13 vertices
+III. A tree with 13 vertices
+
+Options:
+A. I only
+B. II only
+C. III only
+D. I and II","B","College-level knowledge required in college computer science.","MMLU","college_computer_science"
+"P0350","mmlu_college_computer_science","College","Mergesort works by splitting a list of n numbers in half, sorting each half recursively, and merging the two halves. Which of the following data structures will allow mergesort to work in O(n log n) time?
+I. A singly linked list
+II. A doubly linked list
+III. An array
+
+Options:
+A. None
+B. III only
+C. I and II only
+D. I, II, and III","D","College-level knowledge required in college computer science.","MMLU","college_computer_science"
