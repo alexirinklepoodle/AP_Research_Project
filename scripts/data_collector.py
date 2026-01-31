@@ -19,7 +19,7 @@ def query_ollama(Model_name, prompt, max_entries = 3):
     Query a local Ollama model with retry logic
     Returns repsponse text or error message
     """
-    for attempt in range(max_retries):
+    for attempt in range(max_entries):
         try:
             print(f" Querying {model_name} (attempt {attempt + 1})...")
 
@@ -66,7 +66,7 @@ def collect_data():
 
     #define models
     # ===== MODEL CONFIGURATION - PHASED APPROACH =====
-    # PHASE 1: Core 8B Comparison (Your Original Setup)
+    # PHASE 1: Core 8B Comparison (Original Setup)
     models_phase1 = [
         {"name": "llama3.1:8b-instruct", "group": "RLHF", "phase": 1, "note": "Primary RLHF 8B"},
         {"name": "mistral:7b-instruct-v0.3", "group": "non-RLHF", "phase": 1, "note": "SFT baseline 7B"},
@@ -80,7 +80,7 @@ def collect_data():
 
     # ===== SELECT WHICH PHASE TO RUN =====
     # Change this variable to control which models run
-    CURRENT_PHASE = 2  # Set to 1 or 2
+    CURRENT_PHASE = 1  # Set to 1 or 2
 
     # Combine models based on current phase
     if CURRENT_PHASE == 1:
@@ -151,7 +151,7 @@ def collect_data():
                 
                 print(f"  ✓ Response ({len(response)} chars, {elapsed:.1f}s)")
                 
-                # Be nice to your system
+                # Be nice to the system
                 time.sleep(1)
     
     print(f"\n{'='*60}")
