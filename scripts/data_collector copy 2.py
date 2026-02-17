@@ -1,6 +1,6 @@
 """
 AP RESEARCH: LLM Data Collection Script
-Fixed version with proper Ollama integration - PHASE 3 CONFIG
+Fixed version with proper Ollama integration
 """
 
 import json
@@ -57,11 +57,11 @@ def test_model_simple():
     """Quick test to verify Ollama is working"""
     print("\n🔧 Testing Ollama connection...")
     
-    # Test with a simple prompt - using the first Phase 3 model
+    # Test with a simple prompt
     test_prompt = "Solve this step by step: A train travels 60 mph for 2.5 hours. How far does it travel?"
     
-    print(f"  Testing llama3.2:3b with simple prompt...")
-    response = query_ollama("llama3.2:3b", test_prompt, max_retries=1)
+    print(f"  Testing llama3.2:1b with simple prompt...")
+    response = query_ollama("llama3.2:1b", test_prompt, max_retries=1)
     
     if "ERROR" in response:
         print(f"  ✗ Test failed: {response}")
@@ -72,19 +72,18 @@ def test_model_simple():
 
 def collect_data():
     """
-    Main data collection function - PHASE 3 CONFIGURATION
+    Main data collection function
     """
 
     print("=" * 60)
-    print("AP RESEARCH: LLM Data Collection - PHASE 3")
-    print("Testing: Scale Expansion & Specialization Effects")
+    print("AP RESEARCH: LLM Data Collection")
     print("=" * 60)
     
     # Test Ollama first
     if not test_model_simple():
         print("\n❌ Ollama test failed. Please check:")
         print("   1. Is Ollama installed? (run 'ollama --version')")
-        print("   2. Are Phase 3 models downloaded? (run 'ollama list')")
+        print("   2. Are models downloaded? (run 'ollama list')")
         print("   3. Is Ollama running? (check 'ollama serve' in another terminal)")
         return
 
@@ -93,28 +92,18 @@ def collect_data():
     os.makedirs("data/processed", exist_ok=True)
     os.makedirs("logs", exist_ok=True)
 
-    # ===== PHASE 3 MODEL CONFIGURATION =====
-    # Updated with your specified models and official Ollama names
+    # Define models - Phase 3 only for now
     models = [
-        # RLHF Group - Scale expansion & specialization
-        {"name": "llama3.2:3b", "group": "RLHF", "note": "3B parameters - scale expansion treatment"},
-        {"name": "codellama:7b", "group": "RLHF", "note": "7B parameters - code-specialized RLHF"},
-        
-        # Non-RLHF Group - Alternative alignments
-        {"name": "mistral:v0.1", "group": "non-RLHF", "note": "7B parameters - base model baseline"},
-        {"name": "neural-chat:7b-v3.3", "group": "non-RLHF", "note": "7B parameters - DPO alignment (scale expansion)"},
+        {"name": "llama3.1:8b", "group": "RLHF", "note": "1.4 B parameters (scale down)"},
+        {"name": "gemma2:2b", "group": "non-RLHF", "note": "Small-scale baseline (2.6 B)"},
     ]
-    
-    print("\n📋 PHASE 3 MODELS CONFIGURED:")
-    for i, model in enumerate(models, 1):
-        print(f"  {i}. {model['name']} - {model['group']} ({model['note']})")
 
     # Load problems
     try:
         with open('problems/problems.csv', 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             problems = list(reader)
-        print(f"\n✓ Loaded {len(problems)} problems from problems.csv")
+        print(f"✓ Loaded {len(problems)} problems from problems.csv")
     except FileNotFoundError:
         print("✗ ERROR: problems.csv not found in 'problems/' folder")
         return
@@ -132,16 +121,15 @@ def collect_data():
     else:
         max_problems = len(problems)
         print(f"✓ Running FULL mode: All {max_problems} problems")
-        estimated_minutes = max_problems * len(models) * 0.25  # ~15s per query
-        print(f"  Estimated time: ~{estimated_minutes:.0f} minutes ({estimated_minutes/60:.1f} hours)")
+        print(f"  Estimated time: ~{max_problems * len(models) * 0.5:.0f} minutes")
         confirm = input("\nContinue with full run? [y/n]: ").strip().lower()
         if confirm != 'y':
             print("Aborted.")
             return
 
-    # Prepare results file with phase identifier
+    # Prepare results file
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    results_file = f"data/raw/results_phase3_{timestamp}.csv"
+    results_file = f"data/raw/results_{timestamp}.csv"
 
     with open(results_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
@@ -203,14 +191,14 @@ Let's think step by step:"""
     
     total_time = time.time() - start_time
     print(f"\n{'='*60}")
-    print(f"PHASE 3 DATA COLLECTION COMPLETE!")
+    print(f"DATA COLLECTION COMPLETE!")
     print(f"Results saved to: {results_file}")
     print(f"Total time: {total_time/60:.1f} minutes")
     print(f"Average per query: {total_time/total_runs:.1f} seconds")
     print(f"{'='*60}")
     
     # Show summary
-    print("\n📊 PHASE 3 SUMMARY:")
+    print("\n📊 Quick Summary:")
     print(f"  Problems tested: {min(max_problems, len(problems))}")
     print(f"  Models tested: {len(models)}")
     print(f"  Total queries: {total_runs}")
