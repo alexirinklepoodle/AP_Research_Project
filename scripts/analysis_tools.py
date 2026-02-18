@@ -1,5 +1,13 @@
 """
 Analysis tools for AP Research data
+
+This module provides quantitative analysis functions. For qualitative analysis,
+use the dedicated qualitative pipeline:
+- error_collection.py: Extract errors for coding
+- qualitative_rubric.py: Develop coding rubric
+- qualitative_coding.py: Apply rubric to errors
+- reliability_check.py: Calculate intra-rater reliability
+- pattern_analysis.py: Quantitize and analyze patterns
 """
 
 import csv
@@ -7,6 +15,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from collections import Counter
 import json
+import glob
+import os
 
 def calculate_stats(scored_file):
     """
@@ -169,6 +179,91 @@ def create_visualizations(scored_file):
     plt.close()
     
     print("✓ Visualizations created in 'visualizations/' folder")
+
+
+def run_qualitative_analysis_workflow():
+    """
+    Run the complete qualitative analysis workflow
+    
+    This is a convenience function that orchestrates the full qualitative pipeline:
+    1. Extract error collection
+    2. Develop rubric
+    3. Code errors
+    4. Check reliability
+    5. Analyze patterns
+    
+    Note: Some steps require manual intervention (coding, waiting period)
+    """
+    print("\n" + "=" * 70)
+    print("QUALITATIVE ANALYSIS WORKFLOW")
+    print("=" * 70)
+    
+    print("\nThis workflow guides you through the qualitative analysis process.")
+    print("Some steps require manual work and will need to be run separately.\n")
+    
+    # Step 1: Error Collection
+    print("\n" + "=" * 70)
+    print("STEP 1: BUILD ERROR COLLECTION")
+    print("=" * 70)
+    print("This extracts all incorrect responses and creates a stratified sample.")
+    
+    choice = input("\nRun error collection? (y/n): ").strip().lower()
+    if choice == 'y':
+        from error_collection import build_error_collection
+        build_error_collection(target_sample_size=60)
+    
+    # Step 2: Rubric Development
+    print("\n" + "=" * 70)
+    print("STEP 2: DEVELOP CODING RUBRIC")
+    print("=" * 70)
+    print("Read through errors and develop coding categories.")
+    
+    choice = input("\nOpen rubric development tool? (y/n): ").strip().lower()
+    if choice == 'y':
+        from qualitative_rubric import create_starter_rubric
+        create_starter_rubric()
+    
+    # Step 3: Coding
+    print("\n" + "=" * 70)
+    print("STEP 3: CODE ERRORS")
+    print("=" * 70)
+    print("Apply the rubric to code each error.")
+    print("This is a manual process that takes time.")
+    
+    choice = input("\nOpen coding interface? (y/n): ").strip().lower()
+    if choice == 'y':
+        import subprocess
+        subprocess.run(['python3', 'scripts/qualitative_coding.py'])
+    
+    # Step 4: Reliability Check
+    print("\n" + "=" * 70)
+    print("STEP 4: RELIABILITY CHECK")
+    print("=" * 70)
+    print("After coding, wait 1-2 weeks, then recode a 25% subset.")
+    print("This checks your coding consistency.")
+    
+    choice = input("\nOpen reliability check tool? (y/n): ").strip().lower()
+    if choice == 'y':
+        import subprocess
+        subprocess.run(['python3', 'scripts/reliability_check.py'])
+    
+    # Step 5: Pattern Analysis
+    print("\n" + "=" * 70)
+    print("STEP 5: PATTERN ANALYSIS")
+    print("=" * 70)
+    print("Quantitize coded data and perform statistical tests.")
+    
+    choice = input("\nRun pattern analysis? (y/n): ").strip().lower()
+    if choice == 'y':
+        import subprocess
+        subprocess.run(['python3', 'scripts/pattern_analysis.py'])
+    
+    print("\n" + "=" * 70)
+    print("✓ WORKFLOW COMPLETE")
+    print("=" * 70)
+    print("\nCheck data/processed/ for all output files.")
+    print("See the qualitative workflow documentation for next steps.")
+
 
 if __name__ == "__main__":
     # Test with the most recent scored file

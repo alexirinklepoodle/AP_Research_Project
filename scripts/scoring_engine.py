@@ -5,6 +5,7 @@ Score LLM responses against reference solutions
 import csv
 import re
 import json
+import os
 from datetime import datetime
 
 def extract_final_answer(response):
@@ -159,9 +160,16 @@ def score_responses(raw_results_file):
 if __name__ == "__main__":
     # Test with the most recent results file
     import glob
-    results_files = glob.glob("data/raw/results_*.csv")
+    # Look for multiple patterns
+    results_files = (
+        glob.glob("data/raw/results_*.csv") +
+        glob.glob("data/raw/*_results_*.csv") +
+        glob.glob("data/raw/*.csv")
+    )
+    # Remove duplicates and sort by modification time
+    results_files = list(set(results_files))
     if results_files:
-        latest = max(results_files)
+        latest = max(results_files, key=os.path.getmtime)
         score_responses(latest)
     else:
         print("No results files found in data/raw/")
