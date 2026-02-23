@@ -1,0 +1,67 @@
+{
+  "categories": {
+    "LOGIC": {
+      "name": "Logical Reasoning Error",
+      "definition": "Error in logical deduction, inference, or reasoning chain. The model makes an invalid inference, contradicts itself, or fails to follow logical implications.",
+      "examples": [],
+      "notes": "Look for statements like \"therefore\" or \"thus\" that don't logically follow from premises.",
+      "count": 0
+    },
+    "CALCULATION": {
+      "name": "Calculation/Computation Error",
+      "definition": "Error in mathematical calculation, arithmetic, or symbolic manipulation. The reasoning is correct but the computation is wrong.",
+      "examples": [],
+      "notes": "Common in math/physics problems. Check if setup is right but execution is wrong.",
+      "count": 0
+    },
+    "MISUNDERSTANDING": {
+      "name": "Problem Misunderstanding",
+      "definition": "Model misinterprets the question, misses key constraints, or addresses a different problem than what was asked.",
+      "examples": [],
+      "notes": "Check if the response answers a different question or ignores critical information.",
+      "count": 0
+    },
+    "KNOWLEDGE": {
+      "name": "Factual Knowledge Error",
+      "definition": "Model states incorrect facts, formulas, definitions, or domain-specific knowledge.",
+      "examples": [],
+      "notes": "Different from reasoning errors - the model doesn't know or recalls incorrectly.",
+      "count": 0
+    },
+    "PROCEDURE": {
+      "name": "Procedural Error",
+      "definition": "Model uses wrong method, formula, or approach for the problem type. The steps don't match what's needed.",
+      "examples": [],
+      "notes": "Model applies wrong framework or algorithm to solve the problem.",
+      "count": 0
+    },
+    "INCOMPLETE": {
+      "name": "Incomplete Reasoning",
+      "definition": "Response trails off, skips critical steps, or doesn't complete the solution. The reasoning chain is broken.",
+      "examples": [],
+      "notes": "Look for responses that start correctly but don't finish or skip key steps.",
+      "count": 0
+    },
+    "FORMAT": {
+      "name": "Format/Expression Error",
+      "definition": "Model produces correct reasoning but fails to express the final answer in the required format (e.g., wrong option letter, unclear conclusion).",
+      "examples": [],
+      "notes": "The reasoning may be correct but the final answer presentation is wrong.",
+      "count": 0
+    },
+    "HALLUCINATION": {
+      "name": "Hallucination/Fabrication",
+      "definition": "Model invents facts, concepts, or information not present in the problem or real knowledge.",
+      "examples": [],
+      "notes": "Model makes up formulas, terms, or \"facts\" that don't exist.",
+      "count": 0
+    }
+  },
+  "metadata": {
+    "created": "2026-02-22T12:32:12.194635",
+    "last_modified": "2026-02-22T12:32:12.194636",
+    "version": 1,
+    "coding_rounds": 0,
+    "type": "starter"
+  }
+}
