@@ -1,0 +1,17 @@
+PRELIMINARY CODING SUMMARY
+============================================================
+
+Total errors coded: 23 / 80
+
+PRIMARY CATEGORY DISTRIBUTION:
+  FACTUAL: 7 (30.4%)
+  PROCEDURAL: 5 (21.7%)
+  LOGIC: 4 (17.4%)
+  RLHF_PATTERN: 3 (13.0%)
+  COMPREHENSION: 3 (13.0%)
+  FORMAT: 1 (4.3%)
+
+
+SUBTYPE DISTRIBUTION:
+  R5: 2
+  R1: 1
