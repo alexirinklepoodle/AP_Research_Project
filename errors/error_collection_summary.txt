@@ -1,0 +1,57 @@
+============================================================
+ERROR COLLECTION SUMMARY
+============================================================
+
+Total errors in collection: 80
+
+DISTRIBUTION BY MODEL GROUP:
+----------------------------------------
+  non-RLHF: 47 (58.8%)
+  RLHF: 33 (41.2%)
+
+
+DISTRIBUTION BY PROBLEM TYPE:
+----------------------------------------
+  hle_math: 22
+  hle_chemistry: 6
+  hle_physics: 5
+  mmlu_miscellaneous: 5
+  mmlu_professional_medicine: 4
+  hle_engineering: 2
+  mmlu_abstract_algebra: 2
+  mmlu_anatomy: 2
+  mmlu_astronomy: 2
+  mmlu_clinical_knowledge: 2
+  mmlu_college_biology: 2
+  mmlu_college_chemistry: 2
+  mmlu_college_computer_science: 2
+  mmlu_college_mathematics: 2
+  mmlu_college_medicine: 2
+  mmlu_college_physics: 2
+  mmlu_conceptual_physics: 2
+  mmlu_electrical_engineering: 2
+  mmlu_formal_logic: 2
+  mmlu_logical_fallacies: 2
+  mmlu_machine_learning: 2
+  mmlu_medical_genetics: 2
+  mmlu_nutrition: 2
+  mmlu_virology: 2
+
+
+DISTRIBUTION BY MODEL:
+----------------------------------------
+  llama3.1:8b: 19
+  gemma2:2b: 15
+  mistral:7b-instruct: 13
+  neural-chat:7b-v3.3: 12
+  codellama:7b: 11
+  mistral:v0.1: 7
+  llama3.2:3b: 3
+
+
+DISTRIBUTION BY DIFFICULTY LEVEL:
+----------------------------------------
+  HLE_Advanced: 35
+  Advanced: 29
+  College: 12
+  Professional: 4
